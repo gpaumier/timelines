@@ -57,7 +57,7 @@
                 "endDate":"2013,02,01",
                 "headline":"Wikipedia Mobile Hits 3 Billion Monthly Page Views ",
                 "text":"<p>https://blog.wikimedia.org/2013/02/01/wikipedia-mobile-hits-3-billion-monthly-page-views/</p>",
-                "tag":"Wikipedia",
+                "tag":"Mobile",
                 "classname":"",
                 "asset": {
                     "media":"",
@@ -99,7 +99,7 @@
                 "endDate":"2013,03,28",
                 "headline":"Upload feature on mobile website ",
                 "text":"<p>https://blog.wikimedia.org/2013/03/28/add-an-image-to-this-article-uploads-now-live-on-mobile-wikipedia/</p>",
-                "tag":"Technology",
+                "tag":"Mobile",
                 "classname":"",
                 "asset": {
                     "media":"",
@@ -113,7 +113,7 @@
                 "endDate":"2013,04,17",
                 "headline":"Carry the entirety of Wikipedia in your pocket with Kiwix for Android ",
                 "text":"<p>https://blog.wikimedia.org/2013/04/17/carry-the-entirety-of-wikipedia-in-your-pocket-with-kiwix-for-android/</p>",
-                "tag":"Technology",
+                "tag":"Mobile",
                 "classname":"",
                 "asset": {
                     "media":"",
@@ -169,7 +169,7 @@
                 "endDate":"2013,04,29",
                 "headline":"Commons app for iOS and Android ",
                 "text":"<p>https://blog.wikimedia.org/2013/04/29/announcing-the-official-commons-app-for-ios-and-android/</p>",
-                "tag":"Technology",
+                "tag":"Mobile",
                 "classname":"",
                 "asset": {
                     "media":"",
@@ -239,7 +239,7 @@
                 "endDate":"2013,05,29",
                 "headline":"Wikipedia nearby",
                 "text":"<p>https://blog.wikimedia.org/2013/05/29/wikipedia-nearby-beta/</p>",
-                "tag":"Technology",
+                "tag":"Mobile",
                 "classname":"",
                 "asset": {
                     "media":"",
@@ -281,7 +281,7 @@
                 "endDate":"2013,07,25",
                 "headline":"Mobile editing debuts",
                 "text":"<p>https://blog.wikimedia.org/2013/07/25/edit-wikipedia-on-the-go/</p>",
-                "tag":"Technology",
+                "tag":"Mobile",
                 "classname":"",
                 "asset": {
                     "media":"",
@@ -295,7 +295,7 @@
                 "endDate":"2013,07,25",
                 "headline":"Aircel partnership brings Wikipedia Zero to India ",
                 "text":"<p>https://blog.wikimedia.org/2013/07/25/aircel-partnership-brings-wikipedia-zero-to-india/</p>",
-                "tag":"Wikimedia",
+                "tag":"Mobile",
                 "classname":"",
                 "asset": {
                     "media":"",
