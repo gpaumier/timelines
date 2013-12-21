@@ -5,9 +5,9 @@
         "type":"default",
         "text":"<p>Access to more people; features to make it easier to contribute; cool stuff done by amazing volunteers; What have you missed on and around Wikipedia in 2013?</p>",
         "asset": {
-            "media":"http://yourdomain_or_socialmedialink_goes_here.jpg",
-            "credit":"Credit goes here",
-            "caption":"Caption text goes here"
+            "media":"images/Pumpkipedia-70_1500.jpg",
+            "credit":"<a href=\"https://commons.wikimedia.org/wiki/User:ESanders_(WMF)/Pumpkipedia\">Ed Sanders, CC-BY-SA 3.0</a>",
+            "caption":"Pumpkipedia."
         },
         "date": [
             {
@@ -18,10 +18,10 @@
                 "tag":"Sister projects",
                 "classname":"",
                 "asset": {
-                    "media":"https://upload.wikimedia.org/wikipedia/commons/8/86/Wikivoyage_Splash.png",
-                    "thumbnail":"",
-                    "credit":"",
-                    "caption":""
+                    "media":"images/Wikivoyage portal screenshot.png",
+                    "thumbnail":"thumbnails/Wikivoyage-Logo-notext.png",
+                    "credit":"<a href=\"https://commons.wikimedia.org/wiki/File:Wikivoyage_Splash.png\">Adrian Dreßler, Rogerhc, AleXXw, CC-BY-SA</a>",
+                    "caption":"Wikivoyage portal."
                 }
             },
 			{
@@ -32,10 +32,10 @@
                 "tag":"Technology",
                 "classname":"",
                 "asset": {
-                    "media":"",
-                    "thumbnail":"",
-                    "credit":"",
-                    "caption":""
+                    "media":"images/Wikimedia_Foundation_Servers-8055_14_1500.jpg",
+                    "thumbnail":"thumbnails/Wikimedia_Foundation_Servers-8055_14_32.jpg",
+                    "credit":"<a href=\"https://commons.wikimedia.org/wiki/File:Wikimedia_Foundation_Servers-8055_14.jpg\">Victor Grigas, CC-BY-SA 3.0</a>",
+                    "caption":"Wikimedia servers in the new data center in Ashburn, Virginia."
                 }
             },
 			{
