@@ -475,8 +475,22 @@
             {
                 "startDate":"2013,12,22",
                 "endDate":"2013,12,22",
-                "headline":"OAuth becomes available on Wikimedia wikis ",
+                "headline":"OAuth becomes available on Wikimedia wikis",
                 "text":"<p>https://blog.wikimedia.org/2013/11/22/oauth-on-wikimedia-wikis/</p>",
+                "tag":"Technology",
+                "classname":"",
+                "asset": {
+                    "media":"",
+                    "thumbnail":"",
+                    "credit":"",
+                    "caption":""
+                }
+            },
+            {
+                "startDate":"2013,12,27",
+                "endDate":"2013,12,27",
+                "headline":"Timeline created",
+                "text":"<p>https://github.com/NUKnightLab/TimelineJS</p>",
                 "tag":"Technology",
                 "classname":"",
                 "asset": {
