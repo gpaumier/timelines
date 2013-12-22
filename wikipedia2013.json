@@ -15,7 +15,6 @@
                 "endDate":"2013,01,15",
                 "headline":"Wikivoyage launches",
                 "text":"<p>https://blog.wikimedia.org/2013/01/15/wikimedia-foundation-launches-wikivoyage-a-free-worldwide-travel-guide-that-anyone-can-edit/ https://wikivoyage.org</p>",
-                "tag":"Sister projects",
                 "classname":"",
                 "asset": {
                     "media":"images/Wikivoyage portal screenshot.png",
@@ -29,7 +28,6 @@
                 "endDate":"2013,01,22",
                 "headline":"Wikimedia servers move to a new data center",
                 "text":"<p>https://blog.wikimedia.org/2013/01/19/wikimedia-sites-move-to-primary-data-center-in-ashburn-virginia/</p>",
-                "tag":"Technology",
                 "classname":"",
                 "asset": {
                     "media":"images/Wikimedia_Foundation_Servers-8055_14_1500.jpg",
@@ -43,7 +41,6 @@
                 "endDate":"2013,01,27",
                 "headline":"An asteroid named 'Wikipedia'",
                 "text":"<p>https://blog.wikimedia.org/2013/02/04/free-encyclopedia-space-asteroid-named-wikipedia/</p>",
-                "tag":"Wikimedia",
                 "classname":"",
                 "asset": {
                     "media":"images/Orbit_of_274301_Wikipedia Solarized_1500.png",
@@ -57,7 +54,6 @@
                 "endDate":"2013,02,01",
                 "headline":"Wikipedia Mobile Hits 3 Billion Monthly Page Views ",
                 "text":"<p>https://blog.wikimedia.org/2013/02/01/wikipedia-mobile-hits-3-billion-monthly-page-views/</p>",
-                "tag":"Mobile",
                 "classname":"",
                 "asset": {
                     "media":"",
@@ -71,7 +67,6 @@
                 "endDate":"2013,02,22",
                 "headline":"Winner of the 2012 Picture of the Year contest announced ",
                 "text":"<p>https://blog.wikimedia.org/2013/02/22/winner-2012-picture-of-the-year/</p>",
-                "tag":"Commons",
                 "classname":"",
                 "asset": {
                     "media":"images/Pair_of_Merops_apiaster_feeding_1500.jpg",
@@ -85,7 +80,6 @@
                 "endDate":"2013,03,13",
                 "headline":"Lua enabled for faster, more powerful templates ",
                 "text":"<p>https://blog.wikimedia.org/2013/03/11/lua-templates-faster-more-flexible-pages/</p>",
-                "tag":"Technology",
                 "classname":"",
                 "asset": {
                     "media":"images/strlen collage_1500.png",
@@ -99,7 +93,6 @@
                 "endDate":"2013,03,28",
                 "headline":"Upload feature on mobile website ",
                 "text":"<p>https://blog.wikimedia.org/2013/03/28/add-an-image-to-this-article-uploads-now-live-on-mobile-wikipedia/</p>",
-                "tag":"Mobile",
                 "classname":"",
                 "asset": {
                     "media":"",
@@ -113,7 +106,6 @@
                 "endDate":"2013,04,17",
                 "headline":"Carry the entirety of Wikipedia in your pocket with Kiwix for Android ",
                 "text":"<p>https://blog.wikimedia.org/2013/04/17/carry-the-entirety-of-wikipedia-in-your-pocket-with-kiwix-for-android/</p>",
-                "tag":"Mobile",
                 "classname":"",
                 "asset": {
                     "media":"",
@@ -127,7 +119,6 @@
                 "endDate":"2013,04,19",
                 "headline":"Wikimedia projects reach more than 500 million people per month ",
                 "text":"<p>https://blog.wikimedia.org/2013/04/19/wikimedia-projects-500-million/</p>",
-                "tag":"Wikimedia",
                 "classname":"",
                 "asset": {
                     "media":"",
@@ -141,7 +132,6 @@
                 "endDate":"2013,04,13",
                 "headline":"Catalan Wikipedia hits the 400,000 articles milestone during 35-hour edit-a-thon ",
                 "text":"<p>https://blog.wikimedia.org/2013/04/22/catalan-wikipedia-400000-articles/</p>",
-                "tag":"Wikimedia",
                 "classname":"",
                 "asset": {
                     "media":"",
@@ -155,7 +145,6 @@
                 "endDate":"2013,04,25",
                 "headline":"Wikidata's structured data can be used in Wikipedia ",
                 "text":"<p>https://blog.wikimedia.org/2013/04/25/the-wikidata-revolution/</p>",
-                "tag":"Sister projects",
                 "classname":"",
                 "asset": {
                     "media":"",
@@ -169,7 +158,6 @@
                 "endDate":"2013,04,29",
                 "headline":"Commons app for iOS and Android ",
                 "text":"<p>https://blog.wikimedia.org/2013/04/29/announcing-the-official-commons-app-for-ios-and-android/</p>",
-                "tag":"Mobile",
                 "classname":"",
                 "asset": {
                     "media":"",
@@ -183,7 +171,6 @@
                 "endDate":"2013,05,02",
                 "headline":"Notifications launch on the English Wikipedia ",
                 "text":"<p>https://blog.wikimedia.org/2013/05/02/notifications-launch-english-wikipedia/</p>",
-                "tag":"Technology",
                 "classname":"",
                 "asset": {
                     "media":"",
@@ -197,7 +184,6 @@
                 "endDate":"2013,05,17",
                 "headline":"Spanish Wikipedia surpasses the 1 million article milestone ",
                 "text":"<p>https://blog.wikimedia.org/2013/05/17/spanish-wikipedia-1-million-articles/</p>",
-                "tag":"Wikipedia",
                 "classname":"",
                 "asset": {
                     "media":"",
@@ -211,7 +197,6 @@
                 "endDate":"2013,05,17",
                 "headline":"Documenting the Eurovision Song Contest 2013 for Wikimedia ",
                 "text":"<p>https://blog.wikimedia.org/2013/05/31/documenting-eurovision-for-wikimedia/</p>",
-                "tag":"Wikimedia",
                 "classname":"",
                 "asset": {
                     "media":"",
@@ -225,7 +210,6 @@
                 "endDate":"2013,05,21",
                 "headline":"Search for new Wikimedia Foundation Executive Director starts",
                 "text":"<p>https://blog.wikimedia.org/2013/05/21/search-for-next-wikimedia-foundation-executive-director/</p>",
-                "tag":"Wikimedia",
                 "classname":"",
                 "asset": {
                     "media":"",
@@ -239,7 +223,6 @@
                 "endDate":"2013,05,29",
                 "headline":"Wikipedia nearby",
                 "text":"<p>https://blog.wikimedia.org/2013/05/29/wikipedia-nearby-beta/</p>",
-                "tag":"Mobile",
                 "classname":"",
                 "asset": {
                     "media":"",
@@ -253,7 +236,6 @@
                 "endDate":"2013,06,12",
                 "headline":"Launch of the Wikimedia tech newsletter",
                 "text":"<p>https://blog.wikimedia.org/2013/06/12/subscribe-to-tech-news-to-stay-informed-of-upcoming-technical-changes/</p>",
-                "tag":"Technology",
                 "classname":"",
                 "asset": {
                     "media":"",
@@ -267,7 +249,6 @@
                 "endDate":"2013,07,01",
                 "headline":"VisualEditor launches in beta on the English Wikipedia ",
                 "text":"<p>https://blog.wikimedia.org/2013/07/01/visualeditor-beta-rollout/</p>",
-                "tag":"Technology",
                 "classname":"",
                 "asset": {
                     "media":"",
@@ -281,7 +262,6 @@
                 "endDate":"2013,07,25",
                 "headline":"Mobile editing debuts",
                 "text":"<p>https://blog.wikimedia.org/2013/07/25/edit-wikipedia-on-the-go/</p>",
-                "tag":"Mobile",
                 "classname":"",
                 "asset": {
                     "media":"",
@@ -295,7 +275,6 @@
                 "endDate":"2013,07,25",
                 "headline":"Aircel partnership brings Wikipedia Zero to India ",
                 "text":"<p>https://blog.wikimedia.org/2013/07/25/aircel-partnership-brings-wikipedia-zero-to-india/</p>",
-                "tag":"Mobile",
                 "classname":"",
                 "asset": {
                     "media":"",
@@ -309,7 +288,6 @@
                 "endDate":"2013,07,30",
                 "headline":"Listen to Wikipedia ",
                 "text":"<p>https://blog.wikimedia.org/2013/07/30/listen-to-wikipedia/</p>",
-                "tag":"Wikipedia",
                 "classname":"",
                 "asset": {
                     "media":"",
@@ -323,7 +301,6 @@
                 "endDate":"2013,07,30",
                 "headline":"Winners announced for Wiki Loves Public Art 2013 ",
                 "text":"<p>https://blog.wikimedia.org/2013/07/30/winners-wiki-loves-public-art-2013/</p>",
-                "tag":"Commons",
                 "classname":"",
                 "asset": {
                     "media":"",
@@ -337,7 +314,6 @@
                 "endDate":"2013,08,28",
                 "headline":"HTTPS enabled by default for logged-in users on Wikimedia sites ",
                 "text":"<p>https://blog.wikimedia.org/2013/08/28/https-default-logged-in-users-wikimedia-sites/</p>",
-                "tag":"Technology",
                 "classname":"",
                 "asset": {
                     "media":"",
@@ -351,7 +327,6 @@
                 "endDate":"2013,08,29",
                 "headline":"Guide to getting started on Wikimedia Commons",
                 "text":"<p>https://blog.wikimedia.org/2013/08/29/wikimedia-commons-brochure/</p>",
-                "tag":"Commons",
                 "classname":"",
                 "asset": {
                     "media":"",
@@ -365,7 +340,6 @@
                 "endDate":"2013,10,21",
                 "headline":"Paid advocacy / sockpuppetry",
                 "text":"<p>https://blog.wikimedia.org/2013/10/21/sue-gardner-response-paid-advocacy-editing/</p>",
-                "tag":"Wikipedia",
                 "classname":"",
                 "asset": {
                     "media":"",
@@ -379,7 +353,6 @@
                 "endDate":"2013,10,25",
                 "headline":"The Wikipedia Adventure",
                 "text":"<p>https://blog.wikimedia.org/2013/10/25/the-wikipedia-adventure/</p>",
-                "tag":"Wikipedia",
                 "classname":"",
                 "asset": {
                     "media":"",
@@ -393,7 +366,6 @@
                 "endDate":"2013,11,07",
                 "headline":"Launch of Beta Features ",
                 "text":"<p>https://blog.wikimedia.org/2013/11/07/introducing-beta-features/</p>",
-                "tag":"Technology",
                 "classname":"",
                 "asset": {
                     "media":"",
@@ -407,7 +379,6 @@
                 "endDate":"2013,11,08",
                 "headline":"Video of Open letter for free access to Wikipedia on mobile in South Africa ",
                 "text":"<p>https://blog.wikimedia.org/2013/11/08/open-letter-free-access-wikipedia-south-africa/</p>",
-                "tag":"Wikimedia",
                 "classname":"",
                 "asset": {
                     "media":"",
@@ -421,7 +392,6 @@
                 "endDate":"2013,11,10",
                 "headline":"Diversity conference in Berlin ",
                 "text":"<p>https://blog.wikimedia.org/2013/11/25/diversity-conference-brings-wikimedians-to-berlin/</p>",
-                "tag":"Wikimedia",
                 "classname":"",
                 "asset": {
                     "media":"",
@@ -435,7 +405,6 @@
                 "endDate":"2013,11,26",
                 "headline":"Creative Commons releases version 4.0",
                 "text":"<p>https://blog.wikimedia.org/2013/11/26/creative-commons-version-4-0/</p>",
-                "tag":"Wikimedia",
                 "classname":"",
                 "asset": {
                     "media":"",
@@ -449,7 +418,6 @@
                 "endDate":"2013,12,03",
                 "headline":"Wikimedia Foundation launches tenth-annual online fundraising campaign ",
                 "text":"<p>https://blog.wikimedia.org/2013/12/03/wmf-tenth-annual-online-fundraising-campaign/</p>",
-                "tag":"Wikimedia",
                 "classname":"",
                 "asset": {
                     "media":"",
@@ -463,7 +431,6 @@
                 "endDate":"2013,12,10",
                 "headline":"Wiki Loves Monuments winner announced",
                 "text":"<p>http://www.wikilovesmonuments.org/and-the-winner-is-2/</p>",
-                "tag":"Commons",
                 "classname":"",
                 "asset": {
                     "media":"",
@@ -477,7 +444,6 @@
                 "endDate":"2013,12,22",
                 "headline":"OAuth becomes available on Wikimedia wikis",
                 "text":"<p>https://blog.wikimedia.org/2013/11/22/oauth-on-wikimedia-wikis/</p>",
-                "tag":"Technology",
                 "classname":"",
                 "asset": {
                     "media":"",
