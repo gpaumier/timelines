@@ -1,0 +1,204 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.48.4 r9939"
+   width="1920"
+   height="1080"
+   sodipodi:docname="strlen parserfunctions.png">
+  <metadata
+     id="metadata8">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs6">
+    <marker
+       inkscape:stockid="Arrow2Mend"
+       orient="auto"
+       refY="0.0"
+       refX="0.0"
+       id="Arrow2Mend"
+       style="overflow:visible;">
+      <path
+         id="path4048"
+         style="fill-rule:evenodd;stroke-width:0.62500000;stroke-linejoin:round;"
+         d="M 8.7185878,4.0337352 L -2.2072895,0.016013256 L 8.7185884,-4.0017078 C 6.9730900,-1.6296469 6.9831476,1.6157441 8.7185878,4.0337352 z "
+         transform="scale(0.6) rotate(180) translate(0,0)" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Mend"
+       orient="auto"
+       refY="0.0"
+       refX="0.0"
+       id="Arrow1Mend"
+       style="overflow:visible;">
+      <path
+         id="path4030"
+         d="M 0.0,0.0 L 5.0,-5.0 L -12.5,0.0 L 5.0,5.0 L 0.0,0.0 z "
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1.0pt;"
+         transform="scale(0.4) rotate(180) translate(10,0)" />
+    </marker>
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient3787">
+      <stop
+         style="stop-color:#002b36;stop-opacity:1;"
+         offset="0"
+         id="stop3789" />
+      <stop
+         style="stop-color:#002b36;stop-opacity:0;"
+         offset="1"
+         id="stop3791" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient3779">
+      <stop
+         style="stop-color:#002b36;stop-opacity:1;"
+         offset="0"
+         id="stop3781" />
+      <stop
+         style="stop-color:#002b36;stop-opacity:0;"
+         offset="1"
+         id="stop3783" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3787"
+       id="linearGradient3793"
+       x1="533.19202"
+       y1="545.43182"
+       x2="705.95776"
+       y2="545.43182"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(1.9566917,0,0,1,-1993.7073,0)" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3787-9"
+       id="linearGradient3793-6"
+       x1="413.70016"
+       y1="545.43182"
+       x2="604.2359"
+       y2="545.43182"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(-1339.3793,0)" />
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient3787-9">
+      <stop
+         style="stop-color:#002b36;stop-opacity:1;"
+         offset="0"
+         id="stop3789-9" />
+      <stop
+         style="stop-color:#002b36;stop-opacity:0;"
+         offset="1"
+         id="stop3791-1" />
+    </linearGradient>
+    <linearGradient
+       y2="545.43182"
+       x2="635.46783"
+       y1="545.43182"
+       x1="317.77435"
+       gradientTransform="matrix(0.2640637,0,0,1,-1062.7368,-1078.0274)"
+       gradientUnits="userSpaceOnUse"
+       id="linearGradient3810"
+       xlink:href="#linearGradient3787-9"
+       inkscape:collect="always" />
+  </defs>
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1885"
+     inkscape:window-height="1060"
+     id="namedview4"
+     showgrid="false"
+     inkscape:zoom="0.47016441"
+     inkscape:cx="905.73047"
+     inkscape:cy="505.71311"
+     inkscape:window-x="33"
+     inkscape:window-y="-3"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg2" />
+  <rect
+     style="fill:#002b36;stroke:none;stroke-width:5;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+     id="rect4670"
+     width="1933.7792"
+     height="1075.9482"
+     x="-1.4638752"
+     y="-0.3399052" />
+  <image
+     y="65.076263"
+     x="53.669537"
+     id="image3006"
+     xlink:href="file:///srv/www/htdocs/broadway.lepommierdujardin.fr/dev/tl/timelines/images/strlen%20parserfunctions.png"
+     height="959"
+     width="1833" />
+  <rect
+     style="fill:url(#linearGradient3793);fill-opacity:1;stroke:none"
+     id="rect3009"
+     width="1129.8661"
+     height="958.672"
+     x="-1719.6669"
+     y="66.095825"
+     transform="scale(-1,1)" />
+  <text
+     xml:space="preserve"
+     style="font-size:390.53948975px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#657b83;fill-opacity:1;stroke:none;font-family:Latin Modern Sans;-inkscape-font-specification:Latin Modern Sans"
+     x="2392.636"
+     y="326.00348"
+     id="text4660"
+     sodipodi:linespacing="125%"
+     transform="scale(0.39509371,2.5310451)"><tspan
+       sodipodi:role="line"
+       id="tspan4662"
+       x="2392.636"
+       y="326.00348">}</tspan></text>
+  <rect
+     style="fill:url(#linearGradient3810);fill-opacity:1;stroke:none"
+     id="rect3009-2"
+     width="169.78529"
+     height="958.672"
+     x="-1025.7539"
+     y="-1011.9316"
+     transform="matrix(0,-1,-1,0,0,0)" />
+  <g
+     id="g4696">
+    <rect
+       y="439.02975"
+       x="1051.8451"
+       height="213.49022"
+       width="479.40005"
+       id="rect3829"
+       style="fill:#657b83;fill-opacity:1;stroke:none" />
+    <image
+       width="476"
+       height="210"
+       xlink:href="file:///srv/www/htdocs/broadway.lepommierdujardin.fr/dev/tl/timelines/images/strlen%20lua.png"
+       id="image4693"
+       x="1053.5452"
+       y="440.77487" />
+  </g>
+</svg>

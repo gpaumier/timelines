@@ -46,10 +46,10 @@
                 "tag":"Wikimedia",
                 "classname":"",
                 "asset": {
-                    "media":"",
-                    "thumbnail":"",
-                    "credit":"",
-                    "caption":""
+                    "media":"images/Orbit_of_274301_Wikipedia Solarized_1500.png",
+                    "thumbnail":"thumbnails/Orbit_of_274301_Wikipedia Solarized_32.png",
+                    "credit":"<a href=\"https://commons.wikimedia.org/wiki/File:Orbit_of_274301_Wikipedia.svg\">Angelus, CC-BY-SA 3.0</a>",
+                    "caption":"The orbit of asteroid 274301 Wikipedia."
                 }
             },
             {
@@ -74,10 +74,10 @@
                 "tag":"Commons",
                 "classname":"",
                 "asset": {
-                    "media":"",
-                    "thumbnail":"",
-                    "credit":"",
-                    "caption":""
+                    "media":"images/Pair_of_Merops_apiaster_feeding_1500.jpg",
+                    "thumbnail":"thumbnails/Pair_of_Merops_apiaster_feeding_32.jpg",
+                    "credit":"<a href=\"https://commons.wikimedia.org/wiki/File:Pair_of_Merops_apiaster_feeding.jpg\">Pierre Dalous, CC-BY-SA 3.0</a>",
+                    "caption":"European Bee-eaters, Ariège, France. The female (in front) awaits the offering which the male will make."
                 }
             },
             {
@@ -88,10 +88,10 @@
                 "tag":"Technology",
                 "classname":"",
                 "asset": {
-                    "media":"",
-                    "thumbnail":"",
+                    "media":"images/strlen collage_1500.png",
+                    "thumbnail":"thumbnails/strlen collage_32.png",
                     "credit":"",
-                    "caption":""
+                    "caption":"The code of a wikitext function and its equivalent in Lua (inset)."
                 }
             },
             {
