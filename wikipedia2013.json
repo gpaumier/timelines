@@ -149,7 +149,7 @@
                 "asset": {
                     "media":"images/Wikidata_(Reasonator)_screenshot_item_Q1339.png",
                     "thumbnail":"",
-                    "credit":"<a href=\"http://reportcard.wmflabs.org/\">Magnus Manske and Wikidata contributors, CC0 1.0</a>",
+                    "credit":"<a href=\"https://commons.wikimedia.org/wiki/File:Wikidata_%28Reasonator%29_screenshot_item_Q1339.png\">Magnus Manske and Wikidata contributors, CC0 1.0</a>",
                     "caption":"The Wikidata entry on Johann Sebastian Bach, whose content can be pulled and reused in Wikipedia pages."
                 }
             },
@@ -201,8 +201,8 @@
                 "asset": {
                     "media":"images/ESC2013_-_Denmark_12_1500.jpg",
                     "thumbnail":"thumbnails/ESC2013_-_Denmark_12_32.jpg",
-                    "credit":"",
-                    "caption":""
+                    "credit":"<a href=\"https://commons.wikimedia.org/wiki/File:ESC2013_-_Denmark_12.JPG\">Albin Olsson, CC-BY-SA 3.0</a>",
+                    "caption":"Danish singer and 2013 Eurovision winner Emmelie de Forest performing her song <em>Only Teardrops</em>."
                 }
             },
             {
@@ -212,10 +212,10 @@
                 "text":"<p>https://blog.wikimedia.org/2013/05/21/search-for-next-wikimedia-foundation-executive-director/</p>",
                 "classname":"",
                 "asset": {
-                    "media":"",
-                    "thumbnail":"",
-                    "credit":"",
-                    "caption":""
+                    "media":"images/Wikimania_HK_-_August_9th_-_10_1500.jpg",
+                    "thumbnail":"thumbnails/Wikimania_HK_-_August_9th_-_10_32.jpg",
+                    "credit":"<a href=\"https://commons.wikimedia.org/wiki/File:Wikimania_HK_-_August_9th_-_10.JPG\">PierreSelim, CC-BY-SA 3.0</a>",
+                    "caption":"Sue Gardner in 2013."
                 }
             },
             {
@@ -225,10 +225,10 @@
                 "text":"<p>https://blog.wikimedia.org/2013/05/29/wikipedia-nearby-beta/</p>",
                 "classname":"",
                 "asset": {
-                    "media":"",
-                    "thumbnail":"",
-                    "credit":"",
-                    "caption":""
+                    "media":"images/Wikipedia_Nearby_close_up_2013-05-24_12-05_1500.jpg",
+                    "thumbnail":"thumbnails/Wikipedia_Nearby_close_up_2013-05-24_12-05_32.jpg",
+                    "credit":"<a href=\"https://commons.wikimedia.org/wiki/File:Wikipedia_Nearby_close_up_2013-05-24_12-05.jpg\">Jdlrobson, CC-BY-SA 3.0</a>",
+                    "caption":"Wikipedia articles about points of interest near Ellora, India."
                 }
             },
             {
@@ -303,10 +303,10 @@
                 "text":"<p>https://blog.wikimedia.org/2013/07/30/winners-wiki-loves-public-art-2013/</p>",
                 "classname":"",
                 "asset": {
-                    "media":"",
-                    "thumbnail":"",
-                    "credit":"",
-                    "caption":""
+                    "media":"images/Ricardo_Bofill_Les_quatre_barres_de_la_senyera_catalana_8_DSC09517_1500.jpg",
+                    "thumbnail":"thumbnails/Ricardo_Bofill_Les_quatre_barres_de_la_senyera_catalana_8_DSC09517_32.jpg",
+                    "credit":"<a href=\"https://commons.wikimedia.org/wiki/File:Ricardo_Bofill_%28Ricard_Bofill_Lev%C3%AD%29,_Les_quatre_barres_de_la_senyera_catalana_8_DSC09517.jpg\">Coldcreation, CC-BY-SA 3.0</a>",
+                    "caption":"2013 winning photo: <em>Les quatre barres de la senyera catalana by Ricardo Bofill</em> in Barcelona, Catalonia."
                 }
             },
             {
@@ -342,10 +342,10 @@
                 "text":"<p>https://blog.wikimedia.org/2013/10/21/sue-gardner-response-paid-advocacy-editing/</p>",
                 "classname":"",
                 "asset": {
-                    "media":"",
-                    "thumbnail":"",
-                    "credit":"",
-                    "caption":""
+                    "media":"images/Wikipedian_activates_a_sock_puppet_1500.jpg",
+                    "thumbnail":"thumbnails/Wikipedian_activates_a_sock_puppet_32.jpg",
+                    "credit":"<a href=\"https://commons.wikimedia.org/wiki/File:Wikipedian_activates_a_sock_puppet.jpg\">Rotem Danzig from the Hebrew wikipedia</a>",
+                    "caption":"A Wikipedian and his sockpuppet."
                 }
             },
             {
@@ -355,9 +355,9 @@
                 "text":"<p>https://blog.wikimedia.org/2013/10/25/the-wikipedia-adventure/</p>",
                 "classname":"",
                 "asset": {
-                    "media":"",
-                    "thumbnail":"",
-                    "credit":"",
+                    "media":"images/TWA_Mission_2_Screenshot_1500.png",
+                    "thumbnail":"thumbnails/TWA_Mission_2_Screenshot_32.png",
+                    "credit":"<a href=\"https://commons.wikimedia.org/wiki/File:TWA_Mission_2_Screenshot.png\">Heather Walls & Ocaasi, CC-BY-SA 3.0</a>",
                     "caption":""
                 }
             },
@@ -378,12 +378,11 @@
                 "startDate":"2013,11,08",
                 "endDate":"2013,11,08",
                 "headline":"Video of Open letter for free access to Wikipedia on mobile in South Africa ",
-                "text":"<p>https://blog.wikimedia.org/2013/11/08/open-letter-free-access-wikipedia-south-africa/</p>",
+                "text":"<p>https://blog.wikimedia.org/2013/11/08/open-letter-free-access-wikipedia-south-africa/ https://www.facebook.com/FreeAccessToWikipedia https://www.change.org/petitions/the-1-generous-thing-mobile-providers-could-do-to-help-kids-all-over-the-world</p>",
                 "classname":"",
                 "asset": {
-                    "media":"",
-                    "thumbnail":"",
-                    "credit":"",
+                    "media":"http://vimeo.com/78302480",
+                    "credit":"<a href=\"https://commons.wikimedia.org/wiki/File:Open_Letter_for_Free_Access_to_Wikipedia.webm\">Victor Grigas, Charlene Music, Andy R. Jordan, CC-BY-SA 3.0</a>",
                     "caption":""
                 }
             },
@@ -394,10 +393,10 @@
                 "text":"<p>https://blog.wikimedia.org/2013/11/25/diversity-conference-brings-wikimedians-to-berlin/</p>",
                 "classname":"",
                 "asset": {
-                    "media":"",
-                    "thumbnail":"",
-                    "credit":"",
-                    "caption":""
+                    "media":"images/Wikimedia_Diversity_Conference_2013_31_1500.jpg",
+                    "thumbnail":"thumbnails/Wikimedia_Diversity_Conference_2013_31_32.jpg",
+                    "credit":"<a href=\"https://commons.wikimedia.org/wiki/File:Wikimedia_Diversity_Conference_2013_31.jpg\">Christopher Schwarzkopf, CC-BY-SA 3.0</a>",
+                    "caption":"A participant editing the schedule of the Wikimedia Diversity Conference."
                 }
             },
             {
@@ -433,10 +432,10 @@
                 "text":"<p>http://www.wikilovesmonuments.org/and-the-winner-is-2/</p>",
                 "classname":"",
                 "asset": {
-                    "media":"",
-                    "thumbnail":"",
-                    "credit":"",
-                    "caption":""
+                    "media":"images/RhB_Ge_4-4_II_Wiesener_Viadukt_1500.jpg",
+                    "thumbnail":"thumbnails/RhB_Ge_4-4_II_Wiesener_Viadukt_32.jpg",
+                    "credit":"<a href=\"https://commons.wikimedia.org/wiki/File:RhB_Ge_4-4_II_Wiesener_Viadukt.jpg\">David Gubler, CC-BY-SA 3.0</a>",
+                    "caption":"2013 winning photo: A RhB Ge 4/4<sup>II</sup> locomotive with a push–pull train crosses the Wiesen Viaduct between Wiesen and Filisur, Switzerland."
                 }
             },
             {
