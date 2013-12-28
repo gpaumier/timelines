@@ -122,7 +122,7 @@
                 "classname":"",
                 "asset": {
                     "media":"images/Wikidata_(Reasonator)_screenshot_item_Q1339.png",
-                    "thumbnail":"",
+                    "thumbnail":"thumbnails/Wikidata_(Reasonator)_screenshot_item_Q1339_32.png",
                     "credit":"<a href=\"https://commons.wikimedia.org/wiki/File:Wikidata_%28Reasonator%29_screenshot_item_Q1339.png\">Magnus Manske and Wikidata contributors, CC0 1.0</a>",
                     "caption":"The Wikidata entry on Johann Sebastian Bach, whose content can be pulled and reused in Wikipedia pages."
                 }
@@ -147,10 +147,10 @@
                 "text":"<p>A new Notifications tool becomes available on the English Wikipedia. It informs users of new activity that affects them on Wikipedia and other Wikimedia projects, such as talk page messages, page reviews or edit reverts. It also lets users take quick action to respond to these events.</p><p><a title=\"Notifications launch on the English Wikipedia\" href=\"https://blog.wikimedia.org/2013/05/02/notifications-launch-english-wikipedia/\">Read this story »</a></p>",
                 "classname":"",
                 "asset": {
-                    "media":"",
-                    "thumbnail":"",
-                    "credit":"",
-                    "caption":""
+                    "media":"images/Notifications-Flyout-Screenshot-08-01-2013_blurred.png",
+                    "thumbnail":"thumbnails/Notifications-Flyout-Screenshot-08-01-2013_blurred_32.png",
+                    "credit":"<a href=\"https://commons.wikimedia.org/wiki/File:Notifications-Flyout-Screenshot-08-01-2013.png\">Fabrice Florin, CC-BY-SA 3.0</a>",
+                    "caption":"Screenshot of the notifications menu."
                 }
             },
             {
@@ -199,10 +199,10 @@
                 "text":"<p><a title=\"Special:MyLanguage/Tech/News\" href=\"https://meta.wikimedia.org/wiki/Special:MyLanguage/Tech/News\">Tech News</a>, a weekly newsletter summarizing technical changes likely to impact Wikipedia editors, launches. Written in jargon-free language and translated into many languages every week, it helps you stay informed of noteworthy changes relevant to you.</p><p><a title=\"Subscribe to Tech News to stay informed of upcoming technical changes\" href=\"https://blog.wikimedia.org/2013/06/12/subscribe-to-tech-news-to-stay-informed-of-upcoming-technical-changes/\">Read this story »</a></p>",
                 "classname":"",
                 "asset": {
-                    "media":"",
-                    "thumbnail":"",
-                    "credit":"",
-                    "caption":""
+                    "media":"images/tech news en.png",
+                    "thumbnail":"thumbnails/tech news en_32.png",
+                    "credit":"Guillaume Paumier, public domain",
+                    "caption":"Screenshot of the Tech news portal."
                 }
             },
             {
@@ -212,10 +212,10 @@
                 "text":"<p>The beta version of VisualEditor, the visual interface to edit wiki pages, becomes available for all registered users on the English Wikipedia. VisualEditor's goal is to make it easier to contribute and edit pages, both for new and experienced contributors, by providing a better user interface in lieu of wiki markup.</p><p><a title=\"Wikipedians: Meet VisualEditor and help with the rollout\" href=\"https://blog.wikimedia.org/2013/07/01/visualeditor-beta-rollout/\">Read this story »</a></p>",
                 "classname":"",
                 "asset": {
-                    "media":"",
-                    "thumbnail":"",
-                    "credit":"",
-                    "caption":""
+                    "media":"images/VE screenshot.png",
+                    "thumbnail":"thumbnails/VE screenshot_32.png",
+                    "credit":"VisualEditor developers, MIT",
+                    "caption":"Screenshot of a Wikipedia article being edited with VisualEditor."
                 }
             },
             {
