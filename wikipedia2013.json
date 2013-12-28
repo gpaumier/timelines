@@ -14,7 +14,7 @@
                 "startDate":"2013,01,15",
                 "endDate":"2013,01,15",
                 "headline":"Wikivoyage launches",
-                "text":"<p>https://blog.wikimedia.org/2013/01/15/wikimedia-foundation-launches-wikivoyage-a-free-worldwide-travel-guide-that-anyone-can-edit/ https://wikivoyage.org</p>",
+                "text":"<p>On the 12th anniversary of the founding of Wikipedia in 2001, the Wikimedia community officially launches <a href=\"https://www.wikivoyage.org\">Wikivoyage</a>, a free, worldwide, online travel guide. Like Wikipedia and its sister projects, Wikivoyage is free to edit, free of ads, and built collaboratively by volunteers from around the globe.</p><p><a href=\"https://blog.wikimedia.org/2013/01/15/wikimedia-foundation-launches-wikivoyage-a-free-worldwide-travel-guide-that-anyone-can-edit/\">Read this story »</a></p>",
                 "classname":"",
                 "asset": {
                     "media":"images/Wikivoyage portal screenshot.png",
@@ -27,7 +27,7 @@
                 "startDate":"2013,01,22",
                 "endDate":"2013,01,22",
                 "headline":"Wikimedia servers move to a new data center",
-                "text":"<p>https://blog.wikimedia.org/2013/01/19/wikimedia-sites-move-to-primary-data-center-in-ashburn-virginia/</p>",
+                "text":"<p>After 9 years of being hosted in a data center in Tampa, Florida, the Wikimedia Foundation transitions its main technical operations to a new data center in Ashburn, Virginia. This is intended to improve the technical performance and reliability of all Wikimedia sites, including Wikipedia.</p><a href=\"https://blog.wikimedia.org/2013/01/19/wikimedia-sites-move-to-primary-data-center-in-ashburn-virginia/\">Read this story »</a></p>",
                 "classname":"",
                 "asset": {
                     "media":"images/Wikimedia_Foundation_Servers-8055_14_1500.jpg",
@@ -40,7 +40,7 @@
                 "startDate":"2013,01,27",
                 "endDate":"2013,01,27",
                 "headline":"Asteroid 274301 is named 'Wikipedia'",
-                "text":"<p>https://blog.wikimedia.org/2013/02/04/free-encyclopedia-space-asteroid-named-wikipedia/</p>",
+                "text":"<p>A main belt asteroid, <a title=\"wikipedia:274301 Wikipedia\" href=\"https://en.wikipedia.org/wiki/274301_Wikipedia\">No. 274301</a>, is named after Wikipedia. Its estimated diameter is about 1–2 kilometers (around 1 mile). The decision is made by the Committee for Small Body Nomenclature, after a proposal by a member of Wikimedia Ukraine.</p><p><a title=\"The free encyclopedia in space: An asteroid named ‘Wikipedia’\" href=\"https://blog.wikimedia.org/2013/02/04/free-encyclopedia-space-asteroid-named-wikipedia/\">Read this story »</a></p>",
                 "classname":"",
                 "asset": {
                     "media":"images/Orbit_of_274301_Wikipedia Solarized_1500.png",
@@ -50,23 +50,10 @@
                 }
             },
             {
-                "startDate":"2013,02,01",
-                "endDate":"2013,02,01",
-                "headline":"Wikipedia Mobile hits 3 billion monthly page views ",
-                "text":"<p>https://blog.wikimedia.org/2013/02/01/wikipedia-mobile-hits-3-billion-monthly-page-views/</p>",
-                "classname":"",
-                "asset": {
-                    "media":"",
-                    "thumbnail":"",
-                    "credit":"",
-                    "caption":""
-                }
-            },
-            {
                 "startDate":"2013,02,22",
                 "endDate":"2013,02,22",
                 "headline":"2012 Picture of the Year contest ends",
-                "text":"<p>https://blog.wikimedia.org/2013/02/22/winner-2012-picture-of-the-year/</p>",
+                "text":"<p>On Wikimedia Commons, Wikimedians vote to choose among almost 1,000 of the best of the pictures promoted in 2012. Wikimedia Commons is a media repository hosting content that anyone can freely share, reuse, and remix; any image donated to Commons can be immediately included in a Wikipedia page.</p><p><a title=\"Winner of the 2012 Picture of the Year contest\" href=\"https://blog.wikimedia.org/2013/02/22/winner-2012-picture-of-the-year/\">Read this story »</a></p>",
                 "classname":"",
                 "asset": {
                     "media":"images/Pair_of_Merops_apiaster_feeding_1500.jpg",
@@ -79,7 +66,7 @@
                 "startDate":"2013,03,13",
                 "endDate":"2013,03,13",
                 "headline":"Lua brings faster, more powerful code to Wikipedia pages",
-                "text":"<p>https://blog.wikimedia.org/2013/03/11/lua-templates-faster-more-flexible-pages/</p>",
+                "text":"<p>Support for <a href=\"https://en.wikipedia.org/wiki/Lua_%28programming_language%29\">Lua</a> is added to Wikipedia and its sister sites, in an effort to provide editors with a more powerful way to program reusable bits of code across pages. Lua also dramatically increases the computing speed of those bits of code.</p><p><a title=\"New Lua templates bring faster, more flexible pages to your wiki\" href=\"https://blog.wikimedia.org/2013/03/11/lua-templates-faster-more-flexible-pages/\">Read this story »</a></p>",
                 "classname":"",
                 "asset": {
                     "media":"images/strlen collage_1500.png",
@@ -89,23 +76,10 @@
                 }
             },
             {
-                "startDate":"2013,03,28",
-                "endDate":"2013,03,28",
-                "headline":"Upload feature on mobile website",
-                "text":"<p>https://blog.wikimedia.org/2013/03/28/add-an-image-to-this-article-uploads-now-live-on-mobile-wikipedia/</p>",
-                "classname":"",
-                "asset": {
-                    "media":"",
-                    "thumbnail":"",
-                    "credit":"",
-                    "caption":""
-                }
-            },
-            {
                 "startDate":"2013,04,12",
                 "endDate":"2013,04,13",
                 "headline":"Catalan Wikipedia reaches 400,000 articles during 35-hour edit-a-thon",
-                "text":"<p>https://blog.wikimedia.org/2013/04/22/catalan-wikipedia-400000-articles/</p>",
+                "text":"<p>50 Art and Philosophy university students and 15 volunteer Wikipedians gather in Barcelona and team up for a 35-consecutive-hour editing marathon, during which the Catalan Wikipedia also reached the 400,000 articles milestone.</p><p><a title=\"Catalan Wikipedia hits the 400,000 articles milestone during 35-hour edit-a-thon\" href=\"https://blog.wikimedia.org/2013/04/22/catalan-wikipedia-400000-articles/\">Read this story »</a></p>",
                 "classname":"",
                 "asset": {
                     "media":"images/Ioga_a_la_sortida_del_sol_1500.jpg",
@@ -118,7 +92,7 @@
                 "startDate":"2013,04,17",
                 "endDate":"2013,04,17",
                 "headline":"Kiwix brings all of Wikipedia to offline Android devices",
-                "text":"<p>https://blog.wikimedia.org/2013/04/17/carry-the-entirety-of-wikipedia-in-your-pocket-with-kiwix-for-android/</p>",
+                "text":"<p>The <a title=\"Kiwix offline Wikipedia app on Google Play\" href=\"https://play.google.com/store/apps/details?id=org.kiwix.kiwixmobile\">Kiwix for Android app</a> is released, allowing users to browse offline content from Wikipedia and its sister sites. With it, you can download content in advance (even the whole encyclopedia) on your mobile device, and access it later when you don't have an internet connection.</p><p><a title=\"Carry the entirety of Wikipedia in your pocket with Kiwix for Android\" href=\"https://blog.wikimedia.org/2013/04/17/carry-the-entirety-of-wikipedia-in-your-pocket-with-kiwix-for-android/\">Read this story »</a></p>",
                 "classname":"",
                 "asset": {
                     "media":"images/Kiwix_on_Android_1500.jpg",
@@ -131,7 +105,7 @@
                 "startDate":"2013,04,19",
                 "endDate":"2013,04,19",
                 "headline":"Wikimedia projects reach more than 500 million people per month",
-                "text":"<p>https://blog.wikimedia.org/2013/04/19/wikimedia-projects-500-million/</p>",
+                "text":"<p>As of March 2013, the combined sites hosted by the Wikimedia Foundation reach more than 500 million monthly unique visitors, according to the latest comScore Media Metrix data. The traffic increased to 517 million in March, five percent higher than the previous record: 492 million in May 2012.</p><p><a title=\"Wikimedia projects reach more than 500 million people per month\" href=\"https://blog.wikimedia.org/2013/04/19/wikimedia-projects-500-million/\">Read this story »</a></p></p>",
                 "classname":"",
                 "asset": {
                     "media":"images/Unique visitors Wikimedia March 2013.png",
@@ -144,7 +118,7 @@
                 "startDate":"2013,04,25",
                 "endDate":"2013,04,25",
                 "headline":"Wikidata's structured data can be used in Wikipedia",
-                "text":"<p>https://blog.wikimedia.org/2013/04/25/the-wikidata-revolution/</p>",
+                "text":"<p>A year after its launch, <a href=\"https://www.wikidata.org/\">Wikidata</a> begins to serve the over 280 language versions of Wikipedia as a common source of structured data that can be used in more than 25 million articles of the free encyclopedia. By providing Wikipedia editors with a central venue for their efforts to collect and vet such data, Wikidata leads to a higher level of consistency and quality in Wikipedia articles across the many language editions of the encyclopedia.</p><p><a title=\"The Wikidata revolution is here: enabling structured data on Wikipedia\" href=\"https://blog.wikimedia.org/2013/04/25/the-wikidata-revolution/\">Read this story »</a></p>",
                 "classname":"",
                 "asset": {
                     "media":"images/Wikidata_(Reasonator)_screenshot_item_Q1339.png",
@@ -157,7 +131,7 @@
                 "startDate":"2013,04,29",
                 "endDate":"2013,04,29",
                 "headline":"Commons photo upload app makes mobile contribution easier",
-                "text":"<p>https://blog.wikimedia.org/2013/04/29/announcing-the-official-commons-app-for-ios-and-android/</p>",
+                "text":"<p>The official Wikimedia Commons app for <a href=\"https://itunes.apple.com/us/app/wikimedia-commons/id630901780?ls=1&amp;mt=8\">iOS</a> and <a href=\"https://market.android.com/details?id=org.wikimedia.commons\">Android</a> is released. It allows you to quickly and easily upload photos  from your mobile device to Wikimedia Commons, the free media library used to illustrate Wikipedia pages.</p><p><a title=\"Announcing the official Commons app for iOS and Android\" href=\"https://blog.wikimedia.org/2013/04/29/announcing-the-official-commons-app-for-ios-and-android/\">Read this story »</a></p>",
                 "classname":"",
                 "asset": {
                     "media":"images/Commons app collage_1500.png",
@@ -170,7 +144,7 @@
                 "startDate":"2013,05,02",
                 "endDate":"2013,05,02",
                 "headline":"Notifications launch on the English Wikipedia ",
-                "text":"<p>https://blog.wikimedia.org/2013/05/02/notifications-launch-english-wikipedia/</p>",
+                "text":"<p>A new Notifications tool becomes available on the English Wikipedia. It informs users of new activity that affects them on Wikipedia and other Wikimedia projects, such as talk page messages, page reviews or edit reverts. It also lets users take quick action to respond to these events.</p><p><a title=\"Notifications launch on the English Wikipedia\" href=\"https://blog.wikimedia.org/2013/05/02/notifications-launch-english-wikipedia/\">Read this story »</a></p>",
                 "classname":"",
                 "asset": {
                     "media":"",
@@ -196,7 +170,7 @@
                 "startDate":"2013,05,17",
                 "endDate":"2013,05,17",
                 "headline":"Wikipedian photographer covers the 2013 Eurovision Song Contest",
-                "text":"<p>https://blog.wikimedia.org/2013/05/31/documenting-eurovision-for-wikimedia/</p>",
+                "text":"<p>Swedish Wikipedia volunteer Albin Olsson attends the Eurovision Song Contest and documents the event to illustrate related Wikipedia pages. He takes thousands of photos and records video clips where the artists present themselves in many languages.</p><p><a title=\"Documenting the Eurovision Song Contest 2013 for Wikimedia\" href=\"https://blog.wikimedia.org/2013/05/31/documenting-eurovision-for-wikimedia/\">Read this story »</a></p>",
                 "classname":"",
                 "asset": {
                     "media":"images/ESC2013_-_Denmark_12_1500.jpg",
@@ -209,7 +183,7 @@
                 "startDate":"2013,05,21",
                 "endDate":"2013,05,21",
                 "headline":"Search for new Wikimedia Foundation Executive Director starts",
-                "text":"<p>https://blog.wikimedia.org/2013/05/21/search-for-next-wikimedia-foundation-executive-director/</p>",
+                "text":"<p>In March, Sue Gardner announces she will be leaving her position of Executive Director at the Wikimedia Foundation, the non-profit that operates Wikipedia and its sister sites. A few weeks later, the Board of Trustees launches the process to find her successor.</p><p><a title=\"Kicking off the search for our next Executive Director\" href=\"https://blog.wikimedia.org/2013/05/21/search-for-next-wikimedia-foundation-executive-director/\">Read this story »</a></p>",
                 "classname":"",
                 "asset": {
                     "media":"images/Wikimania_HK_-_August_9th_-_10_1500.jpg",
