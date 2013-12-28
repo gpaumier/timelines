@@ -143,21 +143,8 @@
             {
                 "startDate":"2013,05,02",
                 "endDate":"2013,05,02",
-                "headline":"Notifications launch on the English Wikipedia ",
+                "headline":"Notifications launch on the English Wikipedia",
                 "text":"<p>A new Notifications tool becomes available on the English Wikipedia. It informs users of new activity that affects them on Wikipedia and other Wikimedia projects, such as talk page messages, page reviews or edit reverts. It also lets users take quick action to respond to these events.</p><p><a title=\"Notifications launch on the English Wikipedia\" href=\"https://blog.wikimedia.org/2013/05/02/notifications-launch-english-wikipedia/\">Read this story »</a></p>",
-                "classname":"",
-                "asset": {
-                    "media":"",
-                    "thumbnail":"",
-                    "credit":"",
-                    "caption":""
-                }
-            },
-            {
-                "startDate":"2013,05,17",
-                "endDate":"2013,05,17",
-                "headline":"Spanish Wikipedia surpasses the 1 million article milestone ",
-                "text":"<p>https://blog.wikimedia.org/2013/05/17/spanish-wikipedia-1-million-articles/</p>",
                 "classname":"",
                 "asset": {
                     "media":"",
@@ -182,7 +169,7 @@
             {
                 "startDate":"2013,05,21",
                 "endDate":"2013,05,21",
-                "headline":"Search for new Wikimedia Foundation Executive Director starts",
+                "headline":"Search for new Wikimedia Foundation Executive Director begins",
                 "text":"<p>In March, Sue Gardner announces she will be leaving her position of Executive Director at the Wikimedia Foundation, the non-profit that operates Wikipedia and its sister sites. A few weeks later, the Board of Trustees launches the process to find her successor.</p><p><a title=\"Kicking off the search for our next Executive Director\" href=\"https://blog.wikimedia.org/2013/05/21/search-for-next-wikimedia-foundation-executive-director/\">Read this story »</a></p>",
                 "classname":"",
                 "asset": {
@@ -195,8 +182,8 @@
             {
                 "startDate":"2013,05,29",
                 "endDate":"2013,05,29",
-                "headline":"Wikipedia nearby",
-                "text":"<p>https://blog.wikimedia.org/2013/05/29/wikipedia-nearby-beta/</p>",
+                "headline":"Wikipedia Nearby makes mobile exploration more fun",
+                "text":"<p>The <a title=\"Nearby page for mobile devices\" href=\"http://en.m.wikipedia.org/wiki/Special:Nearby\">Nearby</a> feature becomes available on Wikipedia. Mostly aimed at mobile devices, it shows a list of points of interest located around your location, and their Wikipedia articles. You can also easily add pictures on pages that don't already have one.</p><p><a title=\"Go on a Wikipedia scavenger hunt with Wikipedia Nearby\" href=\"https://blog.wikimedia.org/2013/05/29/wikipedia-nearby-beta/\">Read this story »</a></p>",
                 "classname":"",
                 "asset": {
                     "media":"images/Wikipedia_Nearby_close_up_2013-05-24_12-05_1500.jpg",
@@ -208,8 +195,8 @@
             {
                 "startDate":"2013,06,12",
                 "endDate":"2013,06,12",
-                "headline":"Launch of the Wikimedia tech newsletter",
-                "text":"<p>https://blog.wikimedia.org/2013/06/12/subscribe-to-tech-news-to-stay-informed-of-upcoming-technical-changes/</p>",
+                "headline":"The Wikimedia tech newsletter launches",
+                "text":"<p><a title=\"Special:MyLanguage/Tech/News\" href=\"https://meta.wikimedia.org/wiki/Special:MyLanguage/Tech/News\">Tech News</a>, a weekly newsletter summarizing technical changes likely to impact Wikipedia editors, launches. Written in jargon-free language and translated into many languages every week, it helps you stay informed of noteworthy changes relevant to you.</p><p><a title=\"Subscribe to Tech News to stay informed of upcoming technical changes\" href=\"https://blog.wikimedia.org/2013/06/12/subscribe-to-tech-news-to-stay-informed-of-upcoming-technical-changes/\">Read this story »</a></p>",
                 "classname":"",
                 "asset": {
                     "media":"",
@@ -222,7 +209,7 @@
                 "startDate":"2013,07,01",
                 "endDate":"2013,07,01",
                 "headline":"VisualEditor launches in beta on the English Wikipedia ",
-                "text":"<p>https://blog.wikimedia.org/2013/07/01/visualeditor-beta-rollout/</p>",
+                "text":"<p>The beta version of VisualEditor, the visual interface to edit wiki pages, becomes available for all registered users on the English Wikipedia. VisualEditor's goal is to make it easier to contribute and edit pages, both for new and experienced contributors, by providing a better user interface in lieu of wiki markup.</p><p><a title=\"Wikipedians: Meet VisualEditor and help with the rollout\" href=\"https://blog.wikimedia.org/2013/07/01/visualeditor-beta-rollout/\">Read this story »</a></p>",
                 "classname":"",
                 "asset": {
                     "media":"",
@@ -235,7 +222,7 @@
                 "startDate":"2013,07,25",
                 "endDate":"2013,07,25",
                 "headline":"Mobile editing debuts",
-                "text":"<p>https://blog.wikimedia.org/2013/07/25/edit-wikipedia-on-the-go/</p>",
+                "text":"<p>A basic editing interface appears on the mobile version of Wikipedia, allowing users to make small changes to a page from their mobile device.</p><p><a title=\"Edit Wikipedia on the go\" href=\"https://blog.wikimedia.org/2013/07/25/edit-wikipedia-on-the-go/\">Read this story »</a></p>",
                 "classname":"",
                 "asset": {
                     "media":"",
@@ -247,8 +234,8 @@
             {
                 "startDate":"2013,07,25",
                 "endDate":"2013,07,25",
-                "headline":"Aircel partnership brings Wikipedia Zero to India ",
-                "text":"<p>https://blog.wikimedia.org/2013/07/25/aircel-partnership-brings-wikipedia-zero-to-india/</p>",
+                "headline":"Aircel partnership brings Wikipedia Zero to India",
+                "text":"<p>A partnership between the Wikimedia Foundation and Indian telecommunications company Aircel gives 60 million mobile subscribers in India the potential to access Wikipedia at no data cost, as part of the Wikipedia Zero program.</p><p><a title=\"Aircel partnership brings Wikipedia Zero to India\" href=\"https://blog.wikimedia.org/2013/07/25/aircel-partnership-brings-wikipedia-zero-to-india/\">Read this story »</a></p>",
                 "classname":"",
                 "asset": {
                     "media":"",
@@ -260,8 +247,8 @@
             {
                 "startDate":"2013,07,30",
                 "endDate":"2013,07,30",
-                "headline":"Listen to Wikipedia ",
-                "text":"<p>https://blog.wikimedia.org/2013/07/30/listen-to-wikipedia/</p>",
+                "headline":"'Listen to Wikipedia' illustrates live Wikipedia editing",
+                "text":"<p>Wikipedians Stephen LaPorte and Mahmoud Hashemi unveil an interactive visual and audio illustration of live editing activity on Wikipedia called '<a title=\"Listen to Wikipedia\" href=\"http://listen.hatnote.com/\">Listen to Wikipedia</a>'. Later, the project wins the silver prize at the Kantar Information is Beautiful Awards 2013.</p><p><a title=\"Listen to Wikipedia\" href=\"https://blog.wikimedia.org/2013/07/30/listen-to-wikipedia/\">Read this story »</a></p>",
                 "classname":"",
                 "asset": {
                     "media":"",
@@ -273,8 +260,8 @@
             {
                 "startDate":"2013,07,30",
                 "endDate":"2013,07,30",
-                "headline":"Winners announced for Wiki Loves Public Art 2013 ",
-                "text":"<p>https://blog.wikimedia.org/2013/07/30/winners-wiki-loves-public-art-2013/</p>",
+                "headline":"Wiki Loves Public Art 2013 contest ends",
+                "text":"<p>The winners are announced for the first edition of <a title=\"Wiki Loves Public Art\" href=\"http://www.wikilovespublicart.com/\">Wiki Loves Public Art</a>, an international photo contest focusing on documenting publicly-accessible artworks. The contest ran in 5 countries for a month, during which more than 9,200 images were donated by 225 participants, half of which were first-time contributors.</p><p><a title=\"Winners announced for Wiki Loves Public Art 2013\" href=\"https://blog.wikimedia.org/2013/07/30/winners-wiki-loves-public-art-2013/\">Read this story »</a></p>",
                 "classname":"",
                 "asset": {
                     "media":"images/Ricardo_Bofill_Les_quatre_barres_de_la_senyera_catalana_8_DSC09517_1500.jpg",
@@ -286,8 +273,8 @@
             {
                 "startDate":"2013,08,28",
                 "endDate":"2013,08,28",
-                "headline":"HTTPS enabled by default for logged-in users on Wikimedia sites ",
-                "text":"<p>https://blog.wikimedia.org/2013/08/28/https-default-logged-in-users-wikimedia-sites/</p>",
+                "headline":"HTTPS is enabled by default for logged-in users",
+                "text":"<p>To increase privacy and security, all logged-in users now access Wikipedia and its sister sites over a secured HTTPS connection, so that the information sent between your browser and the Wikimedia servers is not readable by anyone else.</p><p><a title=\"HTTPS enabled by default for logged-in users on Wikimedia sites\" href=\"https://blog.wikimedia.org/2013/08/28/https-default-logged-in-users-wikimedia-sites/\">Read this story »</a></p>",
                 "classname":"",
                 "asset": {
                     "media":"",
@@ -299,8 +286,8 @@
             {
                 "startDate":"2013,08,29",
                 "endDate":"2013,08,29",
-                "headline":"Guide to getting started on Wikimedia Commons",
-                "text":"<p>https://blog.wikimedia.org/2013/08/29/wikimedia-commons-brochure/</p>",
+                "headline":"Guide to getting started on Wikimedia Commons is published",
+                "text":"<p>A new tutorial brochure featuring Puzzly, the cartoon puzzle piece-headed character, is published to explain the basics of copyright and how to contribute media files to Wikimedia Commons, the multimedia library associated with Wikipedia.</p><p><a title=\"A guide to getting started on Wikimedia Commons\" href=\"https://blog.wikimedia.org/2013/08/29/wikimedia-commons-brochure/\">Read this story »</a></p>",
                 "classname":"",
                 "asset": {
                     "media":"",
@@ -312,8 +299,8 @@
             {
                 "startDate":"2013,10,21",
                 "endDate":"2013,10,21",
-                "headline":"Paid advocacy / sockpuppetry",
-                "text":"<p>https://blog.wikimedia.org/2013/10/21/sue-gardner-response-paid-advocacy-editing/</p>",
+                "headline":"Abusive accounts blocked due to paid advocacy editing",
+                "text":"<p>Following suspicions of widespread 'sockpuppetry' (i.e. using multiple online identities for purposes of deception), the Wikipedia community investigates and blocks hundreds of abusive user accounts used to edit articles on Wikipedia for profit by promoting organizations or products.</p><p><a title=\"Wikimedia Foundation Executive Director Sue Gardner’s response to paid advocacy editing and sockpuppetry\" href=\"https://blog.wikimedia.org/2013/10/21/sue-gardner-response-paid-advocacy-editing/\">Read this story »</a></p>",
                 "classname":"",
                 "asset": {
                     "media":"images/Wikipedian_activates_a_sock_puppet_1500.jpg",
@@ -325,21 +312,21 @@
             {
                 "startDate":"2013,10,25",
                 "endDate":"2013,10,25",
-                "headline":"The Wikipedia Adventure",
-                "text":"<p>https://blog.wikimedia.org/2013/10/25/the-wikipedia-adventure/</p>",
+                "headline":"'Wikipedia Adventure' turns first steps on Wikipedia into a game",
+                "text":"<p>With the support of a grant from the Wikimedia Foundation, Wikipedian Jake Orlowitz creates '<a title=\"Start the Wikipedia Adventure\" href=\"https://en.wikipedia.org/wiki/Wikipedia:TWA/Portal\">The Wikipedia Adventure</a>', a space-themed game to guide new Wikipedia contributors through their first steps as members of the community.</p><p><a title=\"Gamestorming: Making of The Wikipedia Adventure\" href=\"https://blog.wikimedia.org/2013/10/25/the-wikipedia-adventure/\">Read this story »</a></p>",
                 "classname":"",
                 "asset": {
                     "media":"images/TWA_Mission_2_Screenshot_1500.png",
                     "thumbnail":"thumbnails/TWA_Mission_2_Screenshot_32.png",
-                    "credit":"<a href=\"https://commons.wikimedia.org/wiki/File:TWA_Mission_2_Screenshot.png\">Heather Walls & Ocaasi, CC-BY-SA 3.0</a>",
+                    "credit":"<a href=\"https://commons.wikimedia.org/wiki/File:TWA_Mission_2_Screenshot.png\">Heather Walls & Jake Orlowitz, CC-BY-SA 3.0</a>",
                     "caption":""
                 }
             },
             {
                 "startDate":"2013,11,07",
                 "endDate":"2013,11,07",
-                "headline":"Launch of Beta Features ",
-                "text":"<p>https://blog.wikimedia.org/2013/11/07/introducing-beta-features/</p>",
+                "headline":"Beta Features launch on Wikimedia sites",
+                "text":"<p>The Wikimedia Foundation's engineers announce 'Beta Features', a tool that can be used by Wikipedia users to try out experimental features made available for testing by developers, before they are released for everyone.</p><p><a title=\"Introducing Beta Features\" href=\"https://blog.wikimedia.org/2013/11/07/introducing-beta-features/\">Read this story »</a></p>",
                 "classname":"",
                 "asset": {
                     "media":"",
@@ -351,8 +338,8 @@
             {
                 "startDate":"2013,11,08",
                 "endDate":"2013,11,08",
-                "headline":"Video of Open letter for free access to Wikipedia on mobile in South Africa ",
-                "text":"<p>https://blog.wikimedia.org/2013/11/08/open-letter-free-access-wikipedia-south-africa/ https://www.facebook.com/FreeAccessToWikipedia https://www.change.org/petitions/the-1-generous-thing-mobile-providers-could-do-to-help-kids-all-over-the-world</p>",
+                "headline":"Video documents open letter for free access to Wikipedia",
+                "text":"<p>A video is published, documenting the <a title=\"Free Access to Wikipedia from Cellphones page on Facebook\" href=\"https://www.facebook.com/FreeAccessToWikipedia\">open letter</a> penned in November 2012 by the students of Sinenjongo High School, in South Africa, asking cellphone carriers to waive data charges for accessing Wikipedia so they can do their homework.</p><p><a title=\"Open letter for free access to Wikipedia on mobile in South Africa\" href=\"https://blog.wikimedia.org/2013/11/08/open-letter-free-access-wikipedia-south-africa/\">Read this story »</a></p>",
                 "classname":"",
                 "asset": {
                     "media":"http://vimeo.com/78302480",
@@ -363,8 +350,8 @@
             {
                 "startDate":"2013,11,09",
                 "endDate":"2013,11,10",
-                "headline":"Diversity conference in Berlin ",
-                "text":"<p>https://blog.wikimedia.org/2013/11/25/diversity-conference-brings-wikimedians-to-berlin/</p>",
+                "headline":"Diversity conference is held in Berlin",
+                "text":"<p>Over 80 editors meet in Berlin for the first ever <a title=\"m:Wikimedia Diversity Conference\" href=\"https://meta.wikimedia.org/wiki/Wikimedia_Diversity_Conference\">Wikimedia Diversity Conference</a> to discuss the need, challenges and solutions for bringing more diversity—in terms of gender, geography, and beyond—to the Wikimedia community and to its content.</p><p><a title=\"Diversity Conference brings Wikimedians to Berlin\" href=\"https://blog.wikimedia.org/2013/11/25/diversity-conference-brings-wikimedians-to-berlin/\">Read this story »</a></p>",
                 "classname":"",
                 "asset": {
                     "media":"images/Wikimedia_Diversity_Conference_2013_31_1500.jpg",
@@ -377,7 +364,7 @@
                 "startDate":"2013,11,26",
                 "endDate":"2013,11,26",
                 "headline":"Creative Commons releases version 4.0",
-                "text":"<p>https://blog.wikimedia.org/2013/11/26/creative-commons-version-4-0/</p>",
+                "text":"<p>Creative Commons announces the release of version 4.0 of their license suite, whose previous versions are widely used across Wikipedia and its sister sites to share freely-reusable content. The new license was born out of an effort to create a more international, adoptable, and long-lasting license.</p><p><a title=\"Creative Commons releases version 4.0: Congratulations!\" href=\"https://blog.wikimedia.org/2013/11/26/creative-commons-version-4-0/\">Read this story »</a></p>",
                 "classname":"",
                 "asset": {
                     "media":"",
@@ -389,8 +376,8 @@
             {
                 "startDate":"2013,12,03",
                 "endDate":"2013,12,03",
-                "headline":"Wikimedia Foundation launches tenth-annual online fundraising campaign ",
-                "text":"<p>https://blog.wikimedia.org/2013/12/03/wmf-tenth-annual-online-fundraising-campaign/</p>",
+                "headline":"Fundraising campaign begins",
+                "text":"<p>The Wikimedia Foundation begins its its tenth-annual year-end fundraising campaign, with donation banners visible at the top of Wikipedia pages. The campaign encourages readers to donate a small amount to help cover the costs of running Wikipedia and its sister sites, notably to pay for the servers and improvements to the software.</p><p><a title=\"Wikimedia Foundation launches tenth-annual online fundraising campaign\" href=\"https://blog.wikimedia.org/2013/12/03/wmf-tenth-annual-online-fundraising-campaign/\">Read this story »</a></p>",
                 "classname":"",
                 "asset": {
                     "media":"",
@@ -402,8 +389,8 @@
             {
                 "startDate":"2013,12,10",
                 "endDate":"2013,12,10",
-                "headline":"Wiki Loves Monuments winner announced",
-                "text":"<p>http://www.wikilovesmonuments.org/and-the-winner-is-2/</p>",
+                "headline":"Wiki Loves Monuments results are announced",
+                "text":"<p>Results are announced for Wiki Loves Monuments, an international photo contest aiming to document monuments and illustrate related Wikipedia articles. With more than 365,000 submissions from more than 50 countries, it's the world's largest photography competition, holding the Guinness World Record since 2011.</p><p><a title=\"And the winner is…\" href=\"http://www.wikilovesmonuments.org/and-the-winner-is-2/\">Read this story »</a></p>",
                 "classname":"",
                 "asset": {
                     "media":"images/RhB_Ge_4-4_II_Wiesener_Viadukt_1500.jpg",
@@ -416,7 +403,7 @@
                 "startDate":"2013,12,22",
                 "endDate":"2013,12,22",
                 "headline":"OAuth becomes available on Wikimedia wikis",
-                "text":"<p>https://blog.wikimedia.org/2013/11/22/oauth-on-wikimedia-wikis/</p>",
+                "text":"<p>A tool implementing the OAuth authentication protocol is enabled on Wikipedia and its sister sites, allowing developers of third-party tools to create applications that Wikipedians can use securely without providing their password.</p><p><a title=\"OAuth now available on Wikimedia wikis\" href=\"https://blog.wikimedia.org/2013/11/22/oauth-on-wikimedia-wikis/\">Read this story »</a></p>",
                 "classname":"",
                 "asset": {
                     "media":"",
@@ -426,10 +413,10 @@
                 }
             },
             {
-                "startDate":"2013,12,27",
-                "endDate":"2013,12,27",
-                "headline":"Timeline created",
-                "text":"<p>https://github.com/NUKnightLab/TimelineJS</p>",
+                "startDate":"2013,12,30",
+                "endDate":"2013,12,30",
+                "headline":"This timeline is created",
+                "text":"<p>This timeline was created by <a title=\"About Guillaume Paumier\" href=\"https://guillaumepaumier.com/bio/\">Guillaume Paumier</a>, based on the <a title=\"TimelineJS on GitHub\" href=\"https://github.com/NUKnightLab/TimelineJS\">TimelineJS</a> tool. The code is available <a title=\"Timelines by Guillaume Paumier on GitHub\" href=\"https://github.com/gpaumier/timelines\">on GitHub</a>, where you can also report issues and suggest changes.</p><p>You can help document the history of Wikipedia and its sister sites by contributing to the <a title=\"Wikimedia history on Meta-Wiki\" href=\"https://meta.wikimedia.org/wiki/Wikimedia_history\">Wikimedia history project</a> on Meta-Wiki.</p>",
                 "classname":"",
                 "asset": {
                     "media":"",
