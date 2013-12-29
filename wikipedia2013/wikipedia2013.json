@@ -111,7 +111,7 @@
                     "media":"images/Unique visitors Wikimedia March 2013.png",
                     "thumbnail":"thumbnails/Unique visitors Wikimedia March 2013_32.png",
                     "credit":"<a href=\"http://reportcard.wmflabs.org/\">Wikimedia Foundation, public domain</a>",
-                    "caption":""
+                    "caption":"Temporal evolution of the number of unique visitors to Wikimedia sites according to comScore."
                 }
             },
             {
@@ -134,9 +134,9 @@
                 "text":"<p>The official Wikimedia Commons app for <a href=\"https://itunes.apple.com/us/app/wikimedia-commons/id630901780?ls=1&amp;mt=8\">iOS</a> and <a href=\"https://market.android.com/details?id=org.wikimedia.commons\">Android</a> is released. It allows you to quickly and easily upload photos  from your mobile device to Wikimedia Commons, the free media library used to illustrate Wikipedia pages.</p><p><a title=\"Announcing the official Commons app for iOS and Android\" href=\"https://blog.wikimedia.org/2013/04/29/announcing-the-official-commons-app-for-ios-and-android/\">Read this story »</a></p>",
                 "classname":"",
                 "asset": {
-                    "media":"images/Commons app collage_1500.png",
+                    "media":"images/Commons app collage_1500.jpg",
                     "thumbnail":"thumbnails/Commons app collage_32.png",
-                    "credit":"",
+                    "credit":"Wikimedia mobile engineers & Guillaume Paumier, GPL/CC-BY 3.0",
                     "caption":""
                 }
             },
@@ -319,7 +319,7 @@
                     "media":"images/TWA_Mission_2_Screenshot_1500.png",
                     "thumbnail":"thumbnails/TWA_Mission_2_Screenshot_32.png",
                     "credit":"<a href=\"https://commons.wikimedia.org/wiki/File:TWA_Mission_2_Screenshot.png\">Heather Walls & Jake Orlowitz, CC-BY-SA 3.0</a>",
-                    "caption":""
+                    "caption":"Screenshot of the game."
                 }
             },
             {
