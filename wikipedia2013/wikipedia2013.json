@@ -17,7 +17,7 @@
                 "text":"<p>On the 12th anniversary of the founding of Wikipedia in 2001, the Wikimedia community officially launches <a href=\"https://www.wikivoyage.org\">Wikivoyage</a>, a free, worldwide, online travel guide. Like Wikipedia and its sister projects, Wikivoyage is free to edit, free of ads, and built collaboratively by volunteers from around the globe.</p><p><a href=\"https://blog.wikimedia.org/2013/01/15/wikimedia-foundation-launches-wikivoyage-a-free-worldwide-travel-guide-that-anyone-can-edit/\">Read this story »</a></p>",
                 "classname":"",
                 "asset": {
-                    "media":"images/Wikivoyage portal screenshot.png",
+                    "media":"images/Wikivoyage portal screenshot.jpg",
                     "thumbnail":"thumbnails/Wikivoyage-Logo-notext.png",
                     "credit":"<a href=\"https://commons.wikimedia.org/wiki/File:Wikivoyage_Splash.png\">Adrian Dreßler, Rogerhc, AleXXw, CC-BY-SA</a>",
                     "caption":"Wikivoyage portal."
@@ -69,7 +69,7 @@
                 "text":"<p>Support for <a href=\"https://en.wikipedia.org/wiki/Lua_%28programming_language%29\">Lua</a> is added to Wikipedia and its sister sites, in an effort to provide editors with a more powerful way to program reusable bits of code across pages. Lua also dramatically increases the computing speed of those bits of code.</p><p><a title=\"New Lua templates bring faster, more flexible pages to your wiki\" href=\"https://blog.wikimedia.org/2013/03/11/lua-templates-faster-more-flexible-pages/\">Read this story »</a></p>",
                 "classname":"",
                 "asset": {
-                    "media":"images/strlen collage_1500.png",
+                    "media":"images/strlen collage_1500.jpg",
                     "thumbnail":"thumbnails/strlen collage_32.png",
                     "credit":"",
                     "caption":"The code of a wikitext function and its equivalent in Lua (inset)."
