@@ -251,10 +251,10 @@
                 "text":"<p>Wikipedians Stephen LaPorte and Mahmoud Hashemi unveil an interactive visual and audio illustration of live editing activity on Wikipedia called '<a title=\"Listen to Wikipedia\" href=\"http://listen.hatnote.com/\">Listen to Wikipedia</a>'. Later, the project wins the silver prize at the Kantar Information is Beautiful Awards 2013.</p><p><a title=\"Listen to Wikipedia\" href=\"https://blog.wikimedia.org/2013/07/30/listen-to-wikipedia/\">Read this story »</a></p>",
                 "classname":"",
                 "asset": {
-                    "media":"",
-                    "thumbnail":"",
-                    "credit":"",
-                    "caption":""
+                    "media":"images/listen to wikipedia screenshot.png",
+                    "thumbnail":"thumbnails/listen to wikipedia screenshot_32.png",
+                    "credit":"Stephen LaPorte & Mahmoud Hashemi, BSD",
+                    "caption":"Screenshot of the animation."
                 }
             },
             {
