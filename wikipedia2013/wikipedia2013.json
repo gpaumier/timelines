@@ -225,10 +225,10 @@
                 "text":"<p>A basic editing interface appears on the mobile version of Wikipedia, allowing users to make small changes to a page from their mobile device.</p><p><a title=\"Edit Wikipedia on the go\" href=\"https://blog.wikimedia.org/2013/07/25/edit-wikipedia-on-the-go/\">Read this story »</a></p>",
                 "classname":"",
                 "asset": {
-                    "media":"",
-                    "thumbnail":"",
-                    "credit":"",
-                    "caption":""
+                    "media":"images/mobile editing collage.png",
+                    "thumbnail":"thumbnails/mobile editing collage_32.png",
+                    "credit":"Wikimedia mobile engineers, GPL",
+                    "caption":"Screenshot of the mobile editing interface."
                 }
             },
             {
@@ -238,10 +238,10 @@
                 "text":"<p>A partnership between the Wikimedia Foundation and Indian telecommunications company Aircel gives 60 million mobile subscribers in India the potential to access Wikipedia at no data cost, as part of the Wikipedia Zero program.</p><p><a title=\"Aircel partnership brings Wikipedia Zero to India\" href=\"https://blog.wikimedia.org/2013/07/25/aircel-partnership-brings-wikipedia-zero-to-india/\">Read this story »</a></p>",
                 "classname":"",
                 "asset": {
-                    "media":"",
-                    "thumbnail":"",
-                    "credit":"",
-                    "caption":""
+                    "media":"images/Wikipedia_Zero_1_Mumbai_Guy_on_phone_1500.jpg",
+                    "thumbnail":"thumbnails/Wikipedia_Zero_1_Mumbai_Guy_on_phone_32.jpg",
+                    "credit":"<a href=\"https://commons.wikimedia.org/wiki/File:Wikipedia_Zero_1_Mumbai_Guy_on_phone.jpg\">Victor Grigas, David Peters & Heather Walls, CC-BY-SA 3.0</a>",
+                    "caption":"Wikipedia Zero logo and someone using a cell phone in Mumbai, India."
                 }
             },
             {
@@ -290,10 +290,10 @@
                 "text":"<p>A new tutorial brochure featuring Puzzly, the cartoon puzzle piece-headed character, is published to explain the basics of copyright and how to contribute media files to Wikimedia Commons, the multimedia library associated with Wikipedia.</p><p><a title=\"A guide to getting started on Wikimedia Commons\" href=\"https://blog.wikimedia.org/2013/08/29/wikimedia-commons-brochure/\">Read this story »</a></p>",
                 "classname":"",
                 "asset": {
-                    "media":"",
-                    "thumbnail":"",
-                    "credit":"",
-                    "caption":""
+                    "media":"images/Illustrating_Wikipedia_brochure_(high_resolution)_cover_1500.png",
+                    "thumbnail":"thumbnails/Illustrating_Wikipedia_brochure_(high_resolution)_cover_32.png",
+                    "credit":"<a href=\"https://commons.wikimedia.org/wiki/File:Illustrating_Wikipedia_brochure.pdf\">Wikimedia Foundation, CC-BY-SA 3.0</a>",
+                    "caption":"Cover of the brochure."
                 }
             },
             {
@@ -329,10 +329,10 @@
                 "text":"<p>The Wikimedia Foundation's engineers announce 'Beta Features', a tool that can be used by Wikipedia users to try out experimental features made available for testing by developers, before they are released for everyone.</p><p><a title=\"Introducing Beta Features\" href=\"https://blog.wikimedia.org/2013/11/07/introducing-beta-features/\">Read this story »</a></p>",
                 "classname":"",
                 "asset": {
-                    "media":"",
-                    "thumbnail":"",
-                    "credit":"",
-                    "caption":""
+                    "media":"images/beta features screenshot.png",
+                    "thumbnail":"thumbnails/beta features screenshot_32.png",
+                    "credit":"Wikimedia engineers, GPL",
+                    "caption":"Screenshot of the Beta Features interface in the account preferences."
                 }
             },
             {
@@ -367,10 +367,10 @@
                 "text":"<p>Creative Commons announces the release of version 4.0 of their license suite, whose previous versions are widely used across Wikipedia and its sister sites to share freely-reusable content. The new license was born out of an effort to create a more international, adoptable, and long-lasting license.</p><p><a title=\"Creative Commons releases version 4.0: Congratulations!\" href=\"https://blog.wikimedia.org/2013/11/26/creative-commons-version-4-0/\">Read this story »</a></p>",
                 "classname":"",
                 "asset": {
-                    "media":"",
-                    "thumbnail":"",
-                    "credit":"",
-                    "caption":""
+                    "media":"images/Yamashita_Yohei_-_CC_on_Orange_1500.jpg",
+                    "thumbnail":"thumbnails/Yamashita_Yohei_-_CC_on_Orange_32.jpg",
+                    "credit":"<a href=\"https://commons.wikimedia.org/wiki/File:Yamashita_Yohei_-_CC_on_Orange_%28by%29.jpg\">Yamashita Yohei, CC-BY 2.0</a>",
+                    "caption":"Creative Commons logo on top of an orange."
                 }
             },
             {
@@ -380,10 +380,10 @@
                 "text":"<p>The Wikimedia Foundation begins its its tenth-annual year-end fundraising campaign, with donation banners visible at the top of Wikipedia pages. The campaign encourages readers to donate a small amount to help cover the costs of running Wikipedia and its sister sites, notably to pay for the servers and improvements to the software.</p><p><a title=\"Wikimedia Foundation launches tenth-annual online fundraising campaign\" href=\"https://blog.wikimedia.org/2013/12/03/wmf-tenth-annual-online-fundraising-campaign/\">Read this story »</a></p>",
                 "classname":"",
                 "asset": {
-                    "media":"",
-                    "thumbnail":"",
-                    "credit":"",
-                    "caption":""
+                    "media":"images/Fundraising collage.png",
+                    "thumbnail":"thumbnails/Fundraising collage_32.png",
+                    "credit":"<a href=\"https://commons.wikimedia.org/wiki/File:2010_Fundraiser_Yearend_banners.png\">Megan Hernandez</a>, <a href=\"https://commons.wikimedia.org/wiki/File:Mobile_Banner_1.png\">Josh VanDavier</a> & <a href=\"https://commons.wikimedia.org/wiki/File:Portuguesedropdown_-_trimmed.png\">Joseph Seddon</a>, CC-BY-SA 3.0",
+                    "caption":"Screenshots of the fundraising banners in 2010 and 2013."
                 }
             },
             {
@@ -400,23 +400,10 @@
                 }
             },
             {
-                "startDate":"2013,12,22",
-                "endDate":"2013,12,22",
-                "headline":"OAuth becomes available on Wikimedia wikis",
-                "text":"<p>A tool implementing the OAuth authentication protocol is enabled on Wikipedia and its sister sites, allowing developers of third-party tools to create applications that Wikipedians can use securely without providing their password.</p><p><a title=\"OAuth now available on Wikimedia wikis\" href=\"https://blog.wikimedia.org/2013/11/22/oauth-on-wikimedia-wikis/\">Read this story »</a></p>",
-                "classname":"",
-                "asset": {
-                    "media":"",
-                    "thumbnail":"",
-                    "credit":"",
-                    "caption":""
-                }
-            },
-            {
                 "startDate":"2013,12,30",
                 "endDate":"2013,12,30",
                 "headline":"This timeline is created",
-                "text":"<p>This timeline was created by <a title=\"About Guillaume Paumier\" href=\"https://guillaumepaumier.com/bio/\">Guillaume Paumier</a>, based on the <a title=\"TimelineJS on GitHub\" href=\"https://github.com/NUKnightLab/TimelineJS\">TimelineJS</a> tool. The code is available <a title=\"Timelines by Guillaume Paumier on GitHub\" href=\"https://github.com/gpaumier/timelines\">on GitHub</a>, where you can also report issues and suggest changes.</p><p>You can help document the history of Wikipedia and its sister sites by contributing to the <a title=\"Wikimedia history on Meta-Wiki\" href=\"https://meta.wikimedia.org/wiki/Wikimedia_history\">Wikimedia history project</a> on Meta-Wiki.</p>",
+                "text":"<p>This timeline was created by <a title=\"About Guillaume Paumier\" href=\"https://guillaumepaumier.com/bio/\">Guillaume Paumier</a>, based on the <a title=\"TimelineJS on GitHub\" href=\"https://github.com/NUKnightLab/TimelineJS\">TimelineJS</a> tool. The code is available <a title=\"Timelines by Guillaume Paumier on GitHub\" href=\"https://github.com/gpaumier/timelines\">on GitHub</a>, where you can also report issues and suggest changes.</p><p>You can help document the history of Wikipedia and its sister sites by contributing to the <a title=\"Wikimedia history on Meta-Wiki\" href=\"https://meta.wikimedia.org/wiki/Wikimedia_history\">Wikimedia history project</a> on Meta-Wiki.</p><p><a title=\"Detailed credits on GitHub\" href=\"https://github.com/gpaumier/timelines/blob/gh-pages/wikipedia2013/CREDITS.md\">Detailed credits</a> for the media assets included in this timeline are available.</p>",
                 "classname":"",
                 "asset": {
                     "media":"",
