@@ -277,10 +277,10 @@
                 "text":"<p>To increase privacy and security, all logged-in users now access Wikipedia and its sister sites over a secured HTTPS connection, so that the information sent between your browser and the Wikimedia servers is not readable by anyone else.</p><p><a title=\"HTTPS enabled by default for logged-in users on Wikimedia sites\" href=\"https://blog.wikimedia.org/2013/08/28/https-default-logged-in-users-wikimedia-sites/\">Read this story »</a></p>",
                 "classname":"",
                 "asset": {
-                    "media":"",
-                    "thumbnail":"",
-                    "credit":"",
-                    "caption":""
+                    "media":"images/Padlock_2010_1500.jpg",
+                    "thumbnail":"thumbnails/Move_protect_32.png",
+                    "credit":"<a href=\"https://commons.wikimedia.org/wiki/File:Padlock_2010.JPG\">Petr Šmerkl, Wikipedia, CC-BY-SA 3.0</a>",
+                    "caption":"Secure HTTPS connections are traditionally represented by padlocks in web browsers."
                 }
             },
             {
