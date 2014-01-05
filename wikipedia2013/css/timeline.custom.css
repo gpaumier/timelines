@@ -3075,6 +3075,18 @@
   font-family: 'Latin Modern Roman Bold', 'Baskerville', 'Georgia', serif;
   font-weight: bold;
 }
+.vco-timeline .vco-navigation .timenav .time .time-interval-major div {
+  line-height: 20px;
+}
+.vco-storyjs h1.date,
+.vco-storyjs h2.date,
+.vco-storyjs h3.date,
+.vco-storyjs h4.date,
+.vco-storyjs h5.date,
+.vco-storyjs h6.date {
+  font-family: 'Latin Modern Roman Bold', 'Baskerville', 'Georgia', serif;
+  font-weight: bold;
+}
 /* MEDIA QUERIES
 ================================================== */
 /* Mobile and iPhone
