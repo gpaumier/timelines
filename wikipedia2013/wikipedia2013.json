@@ -124,7 +124,7 @@
                     "media":"images/Wikidata_(Reasonator)_screenshot_item_Q1339.png",
                     "thumbnail":"thumbnails/Wikidata_(Reasonator)_screenshot_item_Q1339_32.png",
                     "credit":"<a href=\"https://commons.wikimedia.org/wiki/File:Wikidata_%28Reasonator%29_screenshot_item_Q1339.png\">Magnus Manske and Wikidata contributors, CC0 1.0</a>",
-                    "caption":"The Wikidata entry on Johann Sebastian Bach, whose content can be pulled and reused in Wikipedia pages."
+                    "caption":"The Wikidata entry on Johann Sebastian Bach."
                 }
             },
             {
@@ -136,7 +136,7 @@
                 "asset": {
                     "media":"images/Commons app collage_1500.jpg",
                     "thumbnail":"thumbnails/Commons app collage_32.png",
-                    "credit":"Wikimedia mobile engineers & Guillaume Paumier, GPL/CC-BY 3.0",
+                    "credit":"Wikimedia mobile engineers (GPL) & Guillaume Paumier (CC-BY 3.0)",
                     "caption":"Screenshots of the Android app's interface with example photos."
                 }
             },
@@ -248,12 +248,12 @@
                 "startDate":"2013,07,30",
                 "endDate":"2013,07,30",
                 "headline":"'Listen to Wikipedia' illustrates live Wikipedia editing",
-                "text":"<p>Wikipedians Stephen LaPorte and Mahmoud Hashemi unveil an interactive visual and audio illustration of live editing activity on Wikipedia called '<a title=\"Listen to Wikipedia\" href=\"http://listen.hatnote.com/\">Listen to Wikipedia</a>'. Later, the project wins the silver prize at the Kantar Information is Beautiful Awards 2013.</p><p><a title=\"Listen to Wikipedia\" href=\"https://blog.wikimedia.org/2013/07/30/listen-to-wikipedia/\">Read this story »</a></p>",
+                "text":"<p>Wikipedians Stephen LaPorte and Mahmoud Hashemi unveil an interactive visual and audio illustration of live editing activity on Wikipedia called \"<a title=\"Listen to Wikipedia\" href=\"http://listen.hatnote.com/\">Listen to Wikipedia</a>\". Later, the project wins the silver prize at the Kantar Information is Beautiful Awards 2013.</p><p><a title=\"Listen to Wikipedia\" href=\"https://blog.wikimedia.org/2013/07/30/listen-to-wikipedia/\">Read this story »</a></p>",
                 "classname":"",
                 "asset": {
                     "media":"images/listen to wikipedia screenshot.png",
                     "thumbnail":"thumbnails/listen to wikipedia screenshot_32.png",
-                    "credit":"Stephen LaPorte & Mahmoud Hashemi, BSD",
+                    "credit":"<a title=\"Listen to Wikipedia\" href=\"http://listen.hatnote.com/\">Stephen LaPorte & Mahmoud Hashemi, BSD</a>",
                     "caption":"Screenshot of the animation."
                 }
             },
