@@ -1,0 +1,67 @@
+// Mixin ///////////////////////////////////////////////////////////////////////
+
+@fonts-dir: "../../fonts";
+
+.font-face (@family, @file-prefix, @weight: normal, @style: normal) {
+	@font-face {
+		font-family: @family;
+		src: url("@{fonts-dir}/@{file-prefix}.eot");
+		src: url("@{fonts-dir}/@{file-prefix}.eot?#iefix") format("embedded-opentype"),
+			url("@{fonts-dir}/@{file-prefix}.woff") format("woff"),
+			url("@{fonts-dir}/@{file-prefix}.ttf") format("truetype");
+		font-weight: @weight;
+		font-style: @style;
+	}
+}
+
+// Typefaces ///////////////////////////////////////////////////////////////////
+
+.font-face(
+	'Latin Modern Roman Regular', 
+	'latinmodern/roman/lmroman10-regular-webfont',
+	normal,
+	normal
+);
+
+
+.font-face(
+	'Latin Modern Sans Regular', 
+	'latinmodern/sans/lmsans10-regular-webfont',
+	normal,
+	normal
+);
+
+// Styles //////////////////////////////////////////////////////////////////////
+
+@font-sans:			'Latin Modern Sans Regular', 'Futura', 'Verdana', sans-serif;
+@font-serif:		'Latin Modern Roman Regular', 'Baskerville', 'Georgia', serif;
+
+.vco-storyjs {
+	font-family: @font-serif;
+	/*	HEADERS
+	------------------------------------------------------------------------------------------- */
+	.twitter, .vcard, .messege, .credit, .caption, .zoom-in, .zoom-out, .back-home, .time-interval div, .time-interval-major div, .nav-container {
+		font-family: @font-sans !important;
+	}
+	h1.date, h2.date, h3.date, h4.date, h5.date, h6.date {
+		font-family: @font-sans !important;
+	}
+	.timenav, .flag-content, .era {
+		h1, h2, h3, h4, h5, h6 {
+			font-family: @font-sans !important;
+		}
+	}
+	/*	CONTENT
+	------------------------------------------------------------------------------------------- */
+	p, blockquote, blockquote p, .twitter blockquote p {
+		font-family: @font-serif !important;
+	}
+	.vco-feature {
+		h1, h2, h3, h4, h5, h6 {
+			font-family: @font-serif;
+		}
+	}
+}
+.timeline-tooltip {
+	font-family: @font-sans;
+}

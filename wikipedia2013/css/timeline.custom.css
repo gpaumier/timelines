@@ -239,12 +239,22 @@
   overflow: auto;
   vertical-align: top;
 }
-/*
-	FONT
-	Default 
-------------------------------------------------------------------------------------------- */
+@font-face {
+  font-family: 'Latin Modern Roman Regular';
+  src: url("../../fonts/latinmodern/roman/lmroman10-regular-webfont.eot");
+  src: url("../../fonts/latinmodern/roman/lmroman10-regular-webfont.eot?#iefix") format("embedded-opentype"), url("../../fonts/latinmodern/roman/lmroman10-regular-webfont.woff") format("woff"), url("../../fonts/latinmodern/roman/lmroman10-regular-webfont.ttf") format("truetype");
+  font-weight: normal;
+  font-style: normal;
+}
+@font-face {
+  font-family: 'Latin Modern Sans Regular';
+  src: url("../../fonts/latinmodern/sans/lmsans10-regular-webfont.eot");
+  src: url("../../fonts/latinmodern/sans/lmsans10-regular-webfont.eot?#iefix") format("embedded-opentype"), url("../../fonts/latinmodern/sans/lmsans10-regular-webfont.woff") format("woff"), url("../../fonts/latinmodern/sans/lmsans10-regular-webfont.ttf") format("truetype");
+  font-weight: normal;
+  font-style: normal;
+}
 .vco-storyjs {
-  font-family: "Georgia", Times New Roman, Times, serif;
+  font-family: 'Latin Modern Roman Regular', 'Baskerville', 'Georgia', serif;
   /*	HEADERS
 	------------------------------------------------------------------------------------------- */
   /*	CONTENT
@@ -261,7 +271,7 @@
 .vco-storyjs .time-interval div,
 .vco-storyjs .time-interval-major div,
 .vco-storyjs .nav-container {
-  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif !important;
+  font-family: 'Latin Modern Sans Regular', 'Futura', 'Verdana', sans-serif !important;
 }
 .vco-storyjs h1.date,
 .vco-storyjs h2.date,
@@ -269,7 +279,7 @@
 .vco-storyjs h4.date,
 .vco-storyjs h5.date,
 .vco-storyjs h6.date {
-  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif !important;
+  font-family: 'Latin Modern Sans Regular', 'Futura', 'Verdana', sans-serif !important;
 }
 .vco-storyjs .timenav h1,
 .vco-storyjs .flag-content h1,
@@ -289,13 +299,13 @@
 .vco-storyjs .timenav h6,
 .vco-storyjs .flag-content h6,
 .vco-storyjs .era h6 {
-  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif !important;
+  font-family: 'Latin Modern Sans Regular', 'Futura', 'Verdana', sans-serif !important;
 }
 .vco-storyjs p,
 .vco-storyjs blockquote,
 .vco-storyjs blockquote p,
 .vco-storyjs .twitter blockquote p {
-  font-family: "Georgia", Times New Roman, Times, serif !important;
+  font-family: 'Latin Modern Roman Regular', 'Baskerville', 'Georgia', serif !important;
 }
 .vco-storyjs .vco-feature h1,
 .vco-storyjs .vco-feature h2,
@@ -303,10 +313,10 @@
 .vco-storyjs .vco-feature h4,
 .vco-storyjs .vco-feature h5,
 .vco-storyjs .vco-feature h6 {
-  font-family: "Georgia", Times New Roman, Times, serif;
+  font-family: 'Latin Modern Roman Regular', 'Baskerville', 'Georgia', serif;
 }
 .timeline-tooltip {
-  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-family: 'Latin Modern Sans Regular', 'Futura', 'Verdana', sans-serif;
 }
 /*	VARIABLES
 ----------------------------------------------------- */
