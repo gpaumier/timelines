@@ -254,11 +254,32 @@
   font-style: normal;
 }
 @font-face {
+  font-family: 'Latin Modern Roman Italic';
+  src: url("../../fonts/latinmodern/roman/lmroman10-italic-webfont.eot");
+  src: url("../../fonts/latinmodern/roman/lmroman10-italic-webfont.eot?#iefix") format("embedded-opentype"), url("../../fonts/latinmodern/roman/lmroman10-italic-webfont.woff") format("woff"), url("../../fonts/latinmodern/roman/lmroman10-italic-webfont.ttf") format("truetype");
+  font-weight: normal;
+  font-style: italic;
+}
+@font-face {
+  font-family: 'Latin Modern Roman Bold Italic';
+  src: url("../../fonts/latinmodern/roman/lmroman10-bolditalic-webfont.eot");
+  src: url("../../fonts/latinmodern/roman/lmroman10-bolditalic-webfont.eot?#iefix") format("embedded-opentype"), url("../../fonts/latinmodern/roman/lmroman10-bolditalic-webfont.woff") format("woff"), url("../../fonts/latinmodern/roman/lmroman10-bolditalic-webfont.ttf") format("truetype");
+  font-weight: bold;
+  font-style: italic;
+}
+@font-face {
   font-family: 'Latin Modern Sans Regular';
   src: url("../../fonts/latinmodern/sans/lmsans10-regular-webfont.eot");
   src: url("../../fonts/latinmodern/sans/lmsans10-regular-webfont.eot?#iefix") format("embedded-opentype"), url("../../fonts/latinmodern/sans/lmsans10-regular-webfont.woff") format("woff"), url("../../fonts/latinmodern/sans/lmsans10-regular-webfont.ttf") format("truetype");
   font-weight: normal;
   font-style: normal;
+}
+@font-face {
+  font-family: 'Latin Modern Sans Oblique';
+  src: url("../../fonts/latinmodern/sans/lmsans10-oblique-webfont.eot");
+  src: url("../../fonts/latinmodern/sans/lmsans10-oblique-webfont.eot?#iefix") format("embedded-opentype"), url("../../fonts/latinmodern/sans/lmsans10-oblique-webfont.woff") format("woff"), url("../../fonts/latinmodern/sans/lmsans10-oblique-webfont.ttf") format("truetype");
+  font-weight: normal;
+  font-style: italic;
 }
 .vco-storyjs {
   font-family: 'Latin Modern Roman Regular', 'Baskerville', 'Georgia', serif;
@@ -3075,17 +3096,23 @@
   font-family: 'Latin Modern Roman Bold', 'Baskerville', 'Georgia', serif;
   font-weight: bold;
 }
+.vco-storyjs .vco-feature h3 em,
+.vco-storyjs .vco-feature h2 em {
+  font-family: 'Latin Modern Roman Bold Italic', 'Baskerville', 'Georgia', serif;
+  font-weight: bold;
+  font-style: italic;
+}
 .vco-timeline .vco-navigation .timenav .time .time-interval-major div {
   line-height: 20px;
 }
-.vco-storyjs h1.date,
-.vco-storyjs h2.date,
-.vco-storyjs h3.date,
-.vco-storyjs h4.date,
-.vco-storyjs h5.date,
-.vco-storyjs h6.date {
-  font-family: 'Latin Modern Roman Bold', 'Baskerville', 'Georgia', serif;
-  font-weight: bold;
+.vco-storyjs p em {
+  font-family: 'Latin Modern Roman Italic', 'Baskerville', 'Georgia', serif !important;
+  font-style: italic;
+}
+.vco-storyjs .credit em,
+.vco-storyjs .caption em {
+  font-family: 'Latin Modern Sans Oblique', 'Futura', 'Verdana', sans-serif !important;
+  font-style: italic;
 }
 /* MEDIA QUERIES
 ================================================== */
