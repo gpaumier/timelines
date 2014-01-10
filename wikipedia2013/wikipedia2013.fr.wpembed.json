@@ -5,7 +5,7 @@
         "type":"default",
         "text":"<p>2013 a été une année riche en projets sur Wikipédia et dans le mouvement Wikimedia&nbsp;; des projets visant par exemple à donner accès à Wikipédia à davantage de personnes, à créer de nouvelles fonctionnalités sur le site pour qu'il soit plus facile de contribuer, ou encore à aider les Wikipédiens à améliorer le contenu.</p><p>Explorez cette frise pour en savoir plus sur ce qui s’est passé autour de Wikipédia en 2013.</p>",
         "asset": {
-            "media":"images/Pumpkipedia-70_1500.jpg",
+            "media":"/static/timelines/wikipedia2013/images/Pumpkipedia-70_1500.jpg",
             "credit":"<a href=\"https://commons.wikimedia.org/wiki/User:ESanders_(WMF)/Pumpkipedia\">Ed Sanders, CC-BY-SA 3.0</a>",
             "caption":"«&nbsp;Pumpkipedia&nbsp;», une citrouille d’Hallowe’en sculptée sous forme du logo de Wikipédia."
         },
@@ -17,8 +17,8 @@
                 "text":"<p>En même temps qu’elle fête le 12<sup>e</sup> anniversaire de la création de Wikipédia en 2001, la communauté Wikimedia lance officiellement <a href=\"https://www.wikivoyage.org\">Wikivoyage</a>, un guide de voyage en ligne libre et gratuit. Comme Wikipédia et les sites associés, Wikivoyage est rédigé de manière collaborative par des bénévoles du monde entier, et n’affiche pas de publicités.</p><p><a href=\"https://blog.wikimedia.org/2013/01/15/wikimedia-foundation-launches-wikivoyage-a-free-worldwide-travel-guide-that-anyone-can-edit/\">Lire l’article&nbsp;»</a></p>",
                 "classname":"",
                 "asset": {
-                    "media":"images/Wikivoyage portal screenshot.jpg",
-                    "thumbnail":"thumbnails/Wikivoyage-Logo-notext.png",
+                    "media":"/static/timelines/wikipedia2013/images/Wikivoyage portal screenshot.jpg",
+                    "thumbnail":"/static/timelines/wikipedia2013/thumbnails/Wikivoyage-Logo-notext.png",
                     "credit":"<a href=\"https://commons.wikimedia.org/wiki/File:Wikivoyage_Splash.png\">Adrian Dreßler, Rogerhc, AleXXw, CC-BY-SA</a>",
                     "caption":"Le portail de Wikivoyage."
                 }
@@ -30,8 +30,8 @@
                 "text":"<p>Après avoir hébergé ses serveurs informatiques à Tampa, en Floride, pendant 9 ans, la Wikimedia Foundation ouvre un nouveau centre de traitement de données à Ashburn, en Virginie, au nord-est des États-Unis. Ce déménagement a pour objectif l’amélioration des performances techniques ainsi qu’une plus grande stabilité des sites Wikimedia, notamment Wikipédia.</p><a href=\"https://blog.wikimedia.org/2013/01/19/wikimedia-sites-move-to-primary-data-center-in-ashburn-virginia/\">Lire l’article&nbsp;»</a></p>",
                 "classname":"",
                 "asset": {
-                    "media":"images/Wikimedia_Foundation_Servers-8055_14_1500.jpg",
-                    "thumbnail":"thumbnails/Wikimedia_Foundation_Servers-8055_14_32.jpg",
+                    "media":"/static/timelines/wikipedia2013/images/Wikimedia_Foundation_Servers-8055_14_1500.jpg",
+                    "thumbnail":"/static/timelines/wikipedia2013/thumbnails/Wikimedia_Foundation_Servers-8055_14_32.jpg",
                     "credit":"<a href=\"https://commons.wikimedia.org/wiki/File:Wikimedia_Foundation_Servers-8055_14.jpg\">Victor Grigas, CC-BY-SA 3.0</a>",
                     "caption":"Les serveurs de Wikimedia dans le nouveau centre de traitement de données à Ashburn, en Virginie."
                 }
@@ -43,8 +43,8 @@
                 "text":"<p>Un astéroïde de la ceinture principale, le <a title=\"wikipedia:274301 Wikipedia\" href=\"https://en.wikipedia.org/wiki/274301_Wikipedia\">n<sup>o</sup>&nbsp;274301</a>, prend le nom de  «&nbsp;Wikipédia&nbsp;». On estime que son diamètre fait entre 1 et 2 kilomètres. La décision de le nommer ainsi est prise par le Comité pour la nomenclature des petits corps célestes, sur une proposition d’un membre de l’association Wikimedia Ukraine.</p><p><a title=\"The free encyclopedia in space: An asteroid named ‘Wikipedia’\" href=\"https://blog.wikimedia.org/2013/02/04/free-encyclopedia-space-asteroid-named-wikipedia/\">Lire l’article&nbsp;»</a></p>",
                 "classname":"",
                 "asset": {
-                    "media":"images/Orbit_of_274301_Wikipedia Solarized_1500.png",
-                    "thumbnail":"thumbnails/Orbit_of_274301_Wikipedia Solarized_32.png",
+                    "media":"/static/timelines/wikipedia2013/images/Orbit_of_274301_Wikipedia Solarized_1500.png",
+                    "thumbnail":"/static/timelines/wikipedia2013/thumbnails/Orbit_of_274301_Wikipedia Solarized_32.png",
                     "credit":"<a href=\"https://commons.wikimedia.org/wiki/File:Orbit_of_274301_Wikipedia.svg\">Angelus, CC-BY-SA 3.0</a>",
                     "caption":"L’orbite de l’asteroïde 274301 Wikipédia."
                 }
@@ -56,8 +56,8 @@
                 "text":"<p>Une nouvelle fonctionnalité voit le jour sur Wikipédia en anglais&nbsp;: les nouveaux utilisateurs peuvent désormais apprendre à contribuer à Wikipédia via des visites guidées, qui les emmènent à la découverte de l’encyclopédie.</p><p><a title=\"Adding guided tours to Wikipedia\" href=\"https://blog.wikimedia.org/2013/02/01/guided-tour-launch/\">Lire l’article&nbsp;»</a></p>",
                 "classname":"",
                 "asset": {
-                    "media":"images/Screenshot_of_GettingStarted_tour_Edit_step_blurred.png",
-                    "thumbnail":"thumbnails/Screenshot_of_GettingStarted_tour_Edit_step_blurred_32.png",
+                    "media":"/static/timelines/wikipedia2013/images/Screenshot_of_GettingStarted_tour_Edit_step_blurred.png",
+                    "thumbnail":"/static/timelines/wikipedia2013/thumbnails/Screenshot_of_GettingStarted_tour_Edit_step_blurred_32.png",
                     "credit":"<a href=\"https://commons.wikimedia.org/wiki/File:Screenshot_of_GettingStarted_tour_Edit_step.png\">Steven Walling, CC-BY-SA 3.0</a>",
                     "caption":"Capture d’écran d’une étape de la visite."
                 }
@@ -69,8 +69,8 @@
                 "text":"<p>Comme chaque année, les contributeurs de Wikimedia Commons votent parmi les près de 1&nbsp;000 meilleures images promues en 2012. Wikimedia Commons est une bibliothèque multimédia dont l’intégralité du contenu peut être librement partagé, réutilisé et remixé. Les images se trouvant sur Commons peuvent immédiatement servir à illustrer une page de Wikipédia.</p><p><a title=\"Winner of the 2012 Picture of the Year contest\" href=\"https://blog.wikimedia.org/2013/02/22/winner-2012-picture-of-the-year/\">Lire l’article&nbsp;»</a></p>",
                 "classname":"",
                 "asset": {
-                    "media":"images/Pair_of_Merops_apiaster_feeding_1500.jpg",
-                    "thumbnail":"thumbnails/Pair_of_Merops_apiaster_feeding_32.jpg",
+                    "media":"/static/timelines/wikipedia2013/images/Pair_of_Merops_apiaster_feeding_1500.jpg",
+                    "thumbnail":"/static/timelines/wikipedia2013/thumbnails/Pair_of_Merops_apiaster_feeding_32.jpg",
                     "credit":"<a href=\"https://commons.wikimedia.org/wiki/File:Pair_of_Merops_apiaster_feeding.jpg\">Pierre Dalous, CC-BY-SA 3.0</a>",
                     "caption":"Image lauréate : Un couple de guépiers d’Europe, en Ariège."
                 }
@@ -82,8 +82,8 @@
                 "text":"<p>Il est désormais possible d’inclure du code en langage <a href=\"https://en.wikipedia.org/wiki/Lua_%28programming_language%29\">Lua</a> dans les pages de Wikipédia et les sites associés&nbsp;; cette fonctionnalité est ajoutée afin d’offrir aux contributeurs un meilleur outil pour coder de mini-programmes utilisables sur plusieurs pages. Lua réduit aussi drastiquement le temps nécessaire à la génération des pages.</p><p><a title=\"New Lua templates bring faster, more flexible pages to your wiki\" href=\"https://blog.wikimedia.org/2013/03/11/lua-templates-faster-more-flexible-pages/\">Lire l’article&nbsp;»</a></p>",
                 "classname":"",
                 "asset": {
-                    "media":"images/strlen collage_1500.jpg",
-                    "thumbnail":"thumbnails/strlen collage_32.png",
+                    "media":"/static/timelines/wikipedia2013/images/strlen collage_1500.jpg",
+                    "thumbnail":"/static/timelines/wikipedia2013/thumbnails/strlen collage_32.png",
                     "credit":"",
                     "caption":"Le code d’une fonction en wikitexte et son équivalent en Lua."
                 }
@@ -95,8 +95,8 @@
                 "text":"<p>50 étudiants en art et philosophie et 15 Wikipédiens bénévoles se rencontrent à Barcelone pour un atelier-marathon de 35 heures consécutives, pendant lequel Wikipédia en catalan passe la barre des 400&nbsp;000 articles.</p><p><a title=\"Catalan Wikipedia hits the 400,000 articles milestone during 35-hour edit-a-thon\" href=\"https://blog.wikimedia.org/2013/04/22/catalan-wikipedia-400000-articles/\">Lire l’article&nbsp;»</a></p>",
                 "classname":"",
                 "asset": {
-                    "media":"images/Ioga_a_la_sortida_del_sol_1500.jpg",
-                    "thumbnail":"thumbnails/Ioga_a_la_sortida_del_sol_32.jpg",
+                    "media":"/static/timelines/wikipedia2013/images/Ioga_a_la_sortida_del_sol_1500.jpg",
+                    "thumbnail":"/static/timelines/wikipedia2013/thumbnails/Ioga_a_la_sortida_del_sol_32.jpg",
                     "credit":"<a href=\"https://commons.wikimedia.org/wiki/File:Ioga_a_la_sortida_del_sol_durant_la_Viquimarat%C3%B3_35_anys,_35_hores_d%27Espai_10_i_Espai_13.jpg\">Bea abbad, CC-BY-SA 3.0</a>",
                     "caption":"Wikipédiens Catalans pratiquant le yoga au lever du soleil lors du wiki-marathon."
                 }
@@ -108,8 +108,8 @@
                 "text":"<p> L’application <a title=\"Application Wikipédea hors ligne sur Google Play\" href=\"https://play.google.com/store/apps/details?id=org.kiwix.kiwixmobile\">Kiwix pour Android</a> est annoncée&nbsp;; elle permet aux utilisateurs de smartphones et de tablettes de consulter Wikipédia et les sites associés sans être connectés à internet. Vous pouvez télécharger le contenu à l’avance sur votre appareil mobile (et même l’intégralité de l’encyclopédie), puis le consulter hors-ligne.</p><p><a title=\"Carry the entirety of Wikipedia in your pocket with Kiwix for Android\" href=\"https://blog.wikimedia.org/2013/04/17/carry-the-entirety-of-wikipedia-in-your-pocket-with-kiwix-for-android/\">Lire l’article&nbsp;»</a></p>",
                 "classname":"",
                 "asset": {
-                    "media":"images/Kiwix_on_Android_1500.jpg",
-                    "thumbnail":"thumbnails/Kiwix_on_Android_32.jpg",
+                    "media":"/static/timelines/wikipedia2013/images/Kiwix_on_Android_1500.jpg",
+                    "thumbnail":"/static/timelines/wikipedia2013/thumbnails/Kiwix_on_Android_32.jpg",
                     "credit":"<a href=\"https://commons.wikimedia.org/wiki/File:Kiwix_on_Android.jpg\">Kelson, CC-BY-SA 3.0</a>",
                     "caption":"Article de Wikipédia hors ligne sur une tablette Android."
                 }
@@ -121,8 +121,8 @@
                 "text":"<p>À partir de mars 2013, l’ensemble des sites hébergés par la Wikimedia Foundation sont visités par plus de 500 millions de visiteurs uniques chaque mois, d’après les chiffres de comScore Media Metrix. Le trafic des sites a atteint 517 millions en mars, soit une augmentation de 5&nbsp;% par rapport au record précédent de 492 millions, en mai 2012.</p><p><a title=\"Wikimedia projects reach more than 500 million people per month\" href=\"https://blog.wikimedia.org/2013/04/19/wikimedia-projects-500-million/\">Lire l’article&nbsp;»</a></p></p>",
                 "classname":"",
                 "asset": {
-                    "media":"images/Unique visitors Wikimedia March 2013.png",
-                    "thumbnail":"thumbnails/Unique visitors Wikimedia March 2013_32.png",
+                    "media":"/static/timelines/wikipedia2013/images/Unique visitors Wikimedia March 2013.png",
+                    "thumbnail":"/static/timelines/wikipedia2013/thumbnails/Unique visitors Wikimedia March 2013_32.png",
                     "credit":"<a href=\"http://reportcard.wmflabs.org/\">Wikimedia Foundation, domaine public</a>",
                     "caption":"Évolution dans le temps du nombre de visiteurs uniques sur les sites Wikimedia selon comScore."
                 }
@@ -134,8 +134,8 @@
                 "text":"<p>Un an après son lancement, <a href=\"https://www.wikidata.org/\">Wikidata</a> commence à être utilisé comme source commune de données structurées, pouvant désormais être incluses dans les 25 millions de pages Wikipédia en 280 langues. En fournissant aux contributeurs de Wikipédia un emplacement central où ils peuvent collecter et vérifier ces données, Wikidata peut amener une meilleure fiabilité des données et une plus grande cohérence entre les différentes versions linguistiques de l’encyclopédie.</p><p><a title=\"The Wikidata revolution is here: enabling structured data on Wikipedia\" href=\"https://blog.wikimedia.org/2013/04/25/the-wikidata-revolution/\">Lire l’article&nbsp;»</a></p>",
                 "classname":"",
                 "asset": {
-                    "media":"images/Wikidata_(Reasonator)_screenshot_item_Q1339.png",
-                    "thumbnail":"thumbnails/Wikidata_(Reasonator)_screenshot_item_Q1339_32.png",
+                    "media":"/static/timelines/wikipedia2013/images/Wikidata_(Reasonator)_screenshot_item_Q1339.png",
+                    "thumbnail":"/static/timelines/wikipedia2013/thumbnails/Wikidata_(Reasonator)_screenshot_item_Q1339_32.png",
                     "credit":"<a href=\"https://commons.wikimedia.org/wiki/File:Wikidata_%28Reasonator%29_screenshot_item_Q1339.png\">Magnus Manske et contributeurs de Wikidata, CC0 1.0</a>",
                     "caption":"La page Wikidata pour Jean-Sébastien Bach."
                 }
@@ -147,8 +147,8 @@
                 "text":"<p>L’application mobile officielle pour Wikimedia Commons est annoncée pour <a href=\"https://itunes.apple.com/us/app/wikimedia-commons/id630901780?ls=1&amp;mt=8\">iOS</a> et <a href=\"https://market.android.com/details?id=org.wikimedia.commons\">Android</a>. Elle vous permet d’envoyer facilement des photos sur Wikimedia Commons depuis votre appareil mobile, et ainsi d’enrichir cette médiathèque libre qui illustre les pages de Wikipédia.</p><p><a title=\"Announcing the official Commons app for iOS and Android\" href=\"https://blog.wikimedia.org/2013/04/29/announcing-the-official-commons-app-for-ios-and-android/\">Lire l’article&nbsp;»</a></p>",
                 "classname":"",
                 "asset": {
-                    "media":"images/Commons app collage_1500.jpg",
-                    "thumbnail":"thumbnails/Commons app collage_32.png",
+                    "media":"/static/timelines/wikipedia2013/images/Commons app collage_1500.jpg",
+                    "thumbnail":"/static/timelines/wikipedia2013/thumbnails/Commons app collage_32.png",
                     "credit":"Développeurs mobile de Wikimedia (GPL) & Guillaume Paumier (CC-BY 3.0)",
                     "caption":"Captures d’écran  de l’application Android."
                 }
@@ -160,8 +160,8 @@
                 "text":"<p>Un nouvel outil de notifications est activé sur Wikipédia en anglais. Il informe les utilisateurs de nouveaux évènements qui les concernent sur Wikipédia et les autres sites Wikimedia, tels que la réception de nouveaux messages sur leur page de discussion, ou l’annulation d’une de leurs modifications. L’outil est activé quelque temps après sur Wikipédia en français.</p><p><a title=\"Notifications launch on the English Wikipedia\" href=\"https://blog.wikimedia.org/2013/05/02/notifications-launch-english-wikipedia/\">Lire l’article&nbsp;»</a></p>",
                 "classname":"",
                 "asset": {
-                    "media":"images/Notifications-Flyout-Screenshot-08-01-2013_blurred.png",
-                    "thumbnail":"thumbnails/Notifications-Flyout-Screenshot-08-01-2013_blurred_32.png",
+                    "media":"/static/timelines/wikipedia2013/images/Notifications-Flyout-Screenshot-08-01-2013_blurred.png",
+                    "thumbnail":"/static/timelines/wikipedia2013/thumbnails/Notifications-Flyout-Screenshot-08-01-2013_blurred_32.png",
                     "credit":"<a href=\"https://commons.wikimedia.org/wiki/File:Notifications-Flyout-Screenshot-08-01-2013.png\">Fabrice Florin, CC-BY-SA 3.0</a>",
                     "caption":"Capture d’écran du menu des notifications."
                 }
@@ -173,8 +173,8 @@
                 "text":"<p>Albin Olsson, bénévole de Wikipédia en suédois, obtient une accréditation pour assister au Concours Eurovision de la chanson, et documente l’évènement pour illustrer les pages de Wikipédia sur ce sujet. Il y prend des milliers de photos et enregistre des clips vidéo dans lesquels les artistes se présentent en plusieurs langues.</p><p><a title=\"Documenting the Eurovision Song Contest 2013 for Wikimedia\" href=\"https://blog.wikimedia.org/2013/05/31/documenting-eurovision-for-wikimedia/\">Lire l’article&nbsp;»</a></p>",
                 "classname":"",
                 "asset": {
-                    "media":"images/ESC2013_-_Denmark_12_1500.jpg",
-                    "thumbnail":"thumbnails/ESC2013_-_Denmark_12_32.jpg",
+                    "media":"/static/timelines/wikipedia2013/images/ESC2013_-_Denmark_12_1500.jpg",
+                    "thumbnail":"/static/timelines/wikipedia2013/thumbnails/ESC2013_-_Denmark_12_32.jpg",
                     "credit":"<a href=\"https://commons.wikimedia.org/wiki/File:ESC2013_-_Denmark_12.JPG\">Albin Olsson, CC-BY-SA 3.0</a>",
                     "caption":"Emmelie de Forest, chanteuse Danoise et lauréate 2013, interprétant sa chanson <em>Only Teardrops</em>."
                 }
@@ -186,8 +186,8 @@
                 "text":"<p>En mars, Sue Gardner annonce qu’elle va quitter son poste de directrice générale à la Wikimedia Foundation, l’organisation à but non lucratif qui héberge Wikipédia et les sites associés. Quelques semaines plus tard, le conseil d’administration commence le processus de recrutement de son successeur.</p><p><a title=\"Kicking off the search for our next Executive Director\" href=\"https://blog.wikimedia.org/2013/05/21/search-for-next-wikimedia-foundation-executive-director/\">Lire l’article&nbsp;»</a></p>",
                 "classname":"",
                 "asset": {
-                    "media":"images/Wikimania_HK_-_August_9th_-_10_1500.jpg",
-                    "thumbnail":"thumbnails/Wikimania_HK_-_August_9th_-_10_32.jpg",
+                    "media":"/static/timelines/wikipedia2013/images/Wikimania_HK_-_August_9th_-_10_1500.jpg",
+                    "thumbnail":"/static/timelines/wikipedia2013/thumbnails/Wikimania_HK_-_August_9th_-_10_32.jpg",
                     "credit":"<a href=\"https://commons.wikimedia.org/wiki/File:Wikimania_HK_-_August_9th_-_10.JPG\">PierreSelim, CC-BY-SA 3.0</a>",
                     "caption":"Sue Gardner en 2013."
                 }
@@ -199,8 +199,8 @@
                 "text":"<p>La fonctionnalité «&nbsp;<a title=\"Nearby page for mobile devices\" href=\"http://en.m.wikipedia.org/wiki/Special:Nearby\">À proximité</a>&nbsp;» est activée sur Wikipédia. Principalement destinée aux appareils mobiles, cette page liste les lieux d’intérêt touristique situés aux alentours de votre position géographique, ainsi que leur article Wikipédia. Vous pouvez également ajouter facilement des images aux pages qui n’en ont pas encore.</p><p><a title=\"Go on a Wikipedia scavenger hunt with Wikipedia Nearby\" href=\"https://blog.wikimedia.org/2013/05/29/wikipedia-nearby-beta/\">Lire l’article&nbsp;»</a></p>",
                 "classname":"",
                 "asset": {
-                    "media":"images/Wikipedia_Nearby_close_up_2013-05-24_12-05_1500.jpg",
-                    "thumbnail":"thumbnails/Wikipedia_Nearby_close_up_2013-05-24_12-05_32.jpg",
+                    "media":"/static/timelines/wikipedia2013/images/Wikipedia_Nearby_close_up_2013-05-24_12-05_1500.jpg",
+                    "thumbnail":"/static/timelines/wikipedia2013/thumbnails/Wikipedia_Nearby_close_up_2013-05-24_12-05_32.jpg",
                     "credit":"<a href=\"https://commons.wikimedia.org/wiki/File:Wikipedia_Nearby_close_up_2013-05-24_12-05.jpg\">Jdlrobson, CC-BY-SA 3.0</a>",
                     "caption":"Liste des articles Wikipédia à propos des lieux d’intérêt touristique proches d’Ellora, en Inde."
                 }
@@ -212,8 +212,8 @@
                 "text":"<p><em><a title=\"Special:MyLanguage/Tech/News\" href=\"https://meta.wikimedia.org/wiki/Special:MyLanguage/Tech/News\">Tech news</a></em> («&nbsp;Actualités techniques&nbsp;») est une lettre d’information hebdomadaire qui résume les changements techniques susceptibles de concerner les contributeurs de Wikipédia. Écrite dans un langage simple, sans jargon, et traduite en de nombreuses langues chaque semaine, elle vous permet d’être informé des changements notables qui vous concernent.</p><p><a title=\"Subscribe to Tech News to stay informed of upcoming technical changes\" href=\"https://blog.wikimedia.org/2013/06/12/subscribe-to-tech-news-to-stay-informed-of-upcoming-technical-changes/\">Lire l’article&nbsp;»</a></p>",
                 "classname":"",
                 "asset": {
-                    "media":"images/tech news en.png",
-                    "thumbnail":"thumbnails/tech news en_32.png",
+                    "media":"/static/timelines/wikipedia2013/images/tech news en.png",
+                    "thumbnail":"/static/timelines/wikipedia2013/thumbnails/tech news en_32.png",
                     "credit":"Guillaume Paumier, domaine public",
                     "caption":"Capture d’écran du portail Tech news."
                 }
@@ -225,8 +225,8 @@
                 "text":"<p>La version «&nbsp;bêta&nbsp;» de l'éditeur visuel est disponible pour tous les utilisateurs ayant un compte sur Wikipédia en anglais, puis sur Wikipédia en français. Son objectif est de faciliter les contributions et la modification des pages, autant pour les nouveaux utilisateurs que pour ceux plus chevronnés, en utilisant une interface visuelle au lieu du code wikitexte.</p><p><a title=\"Wikipedians: Meet VisualEditor and help with the rollout\" href=\"https://blog.wikimedia.org/2013/07/01/visualeditor-beta-rollout/\">Lire l’article&nbsp;»</a></p>",
                 "classname":"",
                 "asset": {
-                    "media":"images/VE screenshot.png",
-                    "thumbnail":"thumbnails/VE screenshot_32.png",
+                    "media":"/static/timelines/wikipedia2013/images/VE screenshot.png",
+                    "thumbnail":"/static/timelines/wikipedia2013/thumbnails/VE screenshot_32.png",
                     "credit":"Développeurs de l’éditeur visuel, MIT",
                     "caption":"Capture d’écran d’un article de Wikipédia modifié avec l’éditeur visuel."
                 }
@@ -238,8 +238,8 @@
                 "text":"<p>Une interface de modification basique apparaît sur la version mobile de Wikipédia&nbsp;; elle permet aux utilisateurs de faire des changements légers sur une page de Wikipédia depuis leur appareil mobile.</p><p><a title=\"Edit Wikipedia on the go\" href=\"https://blog.wikimedia.org/2013/07/25/edit-wikipedia-on-the-go/\">Lire l’article&nbsp;»</a></p>",
                 "classname":"",
                 "asset": {
-                    "media":"images/mobile editing collage.png",
-                    "thumbnail":"thumbnails/mobile editing collage_32.png",
+                    "media":"/static/timelines/wikipedia2013/images/mobile editing collage.png",
+                    "thumbnail":"/static/timelines/wikipedia2013/thumbnails/mobile editing collage_32.png",
                     "credit":"Développeurs mobile de Wikimedia, GPL",
                     "caption":"Capture d’écran de l’interface de modification pour les téléphones portables."
                 }
@@ -251,8 +251,8 @@
                 "text":"<p>Un partenariat entre la Wikimedia Foundation et la compagnie télécom Aircel permet à 60 millions d’abonnés mobile en Inde d’accéder à Wikipédia depuis leur téléphone sans payer de frais de données. Ce partenariat fait partie du programme «&nbsp;Wikipédia Zero&nbsp;», pour «&nbsp;zéro frais de données&nbsp;».</p><p><a title=\"Aircel partnership brings Wikipedia Zero to India\" href=\"https://blog.wikimedia.org/2013/07/25/aircel-partnership-brings-wikipedia-zero-to-india/\">Lire l’article&nbsp;»</a></p>",
                 "classname":"",
                 "asset": {
-                    "media":"images/Wikipedia_Zero_1_Mumbai_Guy_on_phone_1500.jpg",
-                    "thumbnail":"thumbnails/Wikipedia_Zero_1_Mumbai_Guy_on_phone_32.jpg",
+                    "media":"/static/timelines/wikipedia2013/images/Wikipedia_Zero_1_Mumbai_Guy_on_phone_1500.jpg",
+                    "thumbnail":"/static/timelines/wikipedia2013/thumbnails/Wikipedia_Zero_1_Mumbai_Guy_on_phone_32.jpg",
                     "credit":"<a href=\"https://commons.wikimedia.org/wiki/File:Wikipedia_Zero_1_Mumbai_Guy_on_phone.jpg\">Victor Grigas, David Peters & Heather Walls, CC-BY-SA 3.0</a>",
                     "caption":"Logo de Wikipédia Zero, et un utilisateur de teléphone portable à Mumbai, en Inde."
                 }
@@ -264,8 +264,8 @@
                 "text":"<p>Deux Wikipédiens, Stephen LaPorte et Mahmoud Hashemi, dévoilent une illustration audio et vidéo interactive montrant les modifications de Wikipédia en direct, appelée <em><a title=\"Listen to Wikipedia\" href=\"http://listen.hatnote.com/\">Listen to Wikipedia</a></em>. Ce projet gagne ensuite la deuxième place au concours <em>Information is Beautiful 2013</em>.</p><p><a title=\"Listen to Wikipedia\" href=\"https://blog.wikimedia.org/2013/07/30/listen-to-wikipedia/\">Lire l’article&nbsp;»</a></p>",
                 "classname":"",
                 "asset": {
-                    "media":"images/listen to wikipedia screenshot.png",
-                    "thumbnail":"thumbnails/listen to wikipedia screenshot_32.png",
+                    "media":"/static/timelines/wikipedia2013/images/listen to wikipedia screenshot.png",
+                    "thumbnail":"/static/timelines/wikipedia2013/thumbnails/listen to wikipedia screenshot_32.png",
                     "credit":"<a title=\"Listen to Wikipedia\" href=\"http://listen.hatnote.com/\">Stephen LaPorte & Mahmoud Hashemi, BSD</a>",
                     "caption":"Capture d’écran de l’animation."
                 }
@@ -277,8 +277,8 @@
                 "text":"<p>Les lauréats du premier concours <em><a title=\"Wiki Loves Public Art\" href=\"http://www.wikilovespublicart.com/\">Wiki Loves Public Art</a></em> («&nbsp;Wiki aime l’art public&nbsp;») sont annoncés. Ce concours international vise à photographier les œuvres d’art publiquement accessibles. Il s’est déroulé dans 5 pays et a duré un mois, pendant lequel plus de 9&nbsp;200 images ont été partagées par plus de 225 participants&nbsp;; la moitié d’entre eux n’avait jamais contribué auparavant.</p><p><a title=\"Winners announced for Wiki Loves Public Art 2013\" href=\"https://blog.wikimedia.org/2013/07/30/winners-wiki-loves-public-art-2013/\">Lire l’article&nbsp;»</a></p>",
                 "classname":"",
                 "asset": {
-                    "media":"images/Ricardo_Bofill_Les_quatre_barres_de_la_senyera_catalana_8_DSC09517_1500.jpg",
-                    "thumbnail":"thumbnails/Ricardo_Bofill_Les_quatre_barres_de_la_senyera_catalana_8_DSC09517_32.jpg",
+                    "media":"/static/timelines/wikipedia2013/images/Ricardo_Bofill_Les_quatre_barres_de_la_senyera_catalana_8_DSC09517_1500.jpg",
+                    "thumbnail":"/static/timelines/wikipedia2013/thumbnails/Ricardo_Bofill_Les_quatre_barres_de_la_senyera_catalana_8_DSC09517_32.jpg",
                     "credit":"<a href=\"https://commons.wikimedia.org/wiki/File:Ricardo_Bofill_%28Ricard_Bofill_Lev%C3%AD%29,_Les_quatre_barres_de_la_senyera_catalana_8_DSC09517.jpg\">Coldcreation, CC-BY-SA 3.0</a>",
                     "caption":"Image lauréate&nbsp;: <em>Les quatre barres de la senyera catalana de Ricardo Bofill</em> à Barcelone, en Catalogne."
                 }
@@ -290,8 +290,8 @@
                 "text":"<p>Pour améliorer la sécurité et protéger la vie privée des utilisateurs, toute personne ayant créé un compte sur Wikipédia peut maintenant accéder au site via une connexion sécurisée HTTPS. De cette façon, personne ne peut intercepter les informations transmises entre votre navigateur internet et les serveurs informatiques de Wikimedia.</p><p><a title=\"HTTPS enabled by default for logged-in users on Wikimedia sites\" href=\"https://blog.wikimedia.org/2013/08/28/https-default-logged-in-users-wikimedia-sites/\">Lire l’article&nbsp;»</a></p>",
                 "classname":"",
                 "asset": {
-                    "media":"images/Padlock_2010_1500.jpg",
-                    "thumbnail":"thumbnails/Move_protect_32.png",
+                    "media":"/static/timelines/wikipedia2013/images/Padlock_2010_1500.jpg",
+                    "thumbnail":"/static/timelines/wikipedia2013/thumbnails/Move_protect_32.png",
                     "credit":"<a href=\"https://commons.wikimedia.org/wiki/File:Padlock_2010.JPG\">Petr Šmerkl, Wikipedia, CC-BY-SA 3.0</a>",
                     "caption":"Les connections sécurisées par HTTPS sont habituellement symbolisées par un cadenas dans les navigateurs internet."
                 }
@@ -303,8 +303,8 @@
                 "text":"<p>Dans ce nouveau tutoriel sous forme de brochure, Puzzly explique les bases du droit d’auteur, et comment contribuer du contenu multimedia sur Wikimedia Commons, la médiathèque libre associée à Wikipédia.</p><p><a title=\"A guide to getting started on Wikimedia Commons\" href=\"https://blog.wikimedia.org/2013/08/29/wikimedia-commons-brochure/\">Lire l’article&nbsp;»</a></p>",
                 "classname":"",
                 "asset": {
-                    "media":"images/Illustrating_Wikipedia_brochure_(high_resolution)_cover_1500.png",
-                    "thumbnail":"thumbnails/Illustrating_Wikipedia_brochure_(high_resolution)_cover_32.png",
+                    "media":"/static/timelines/wikipedia2013/images/Illustrating_Wikipedia_brochure_(high_resolution)_cover_1500.png",
+                    "thumbnail":"/static/timelines/wikipedia2013/thumbnails/Illustrating_Wikipedia_brochure_(high_resolution)_cover_32.png",
                     "credit":"<a href=\"https://commons.wikimedia.org/wiki/File:Illustrating_Wikipedia_brochure.pdf\">Wikimedia Foundation, CC-BY-SA 3.0</a>",
                     "caption":"Première de couverture de la brochure."
                 }
@@ -316,8 +316,8 @@
                 "text":"<p>À la suite de soupçons d’usage massif de «&nbsp;faux-nez&nbsp;» (des comptes multiples utilisés par la même personne), la communauté de Wikipédia mène l’enquête et bloque des centaines de comptes abusifs utilisés pour modifier, avec une contrepartie financière, des articles de Wikipédia afin de promouvoir des sociétés ou des produits dans les pages de l’encyclopédie.</p><p><a title=\"Wikimedia Foundation Executive Director Sue Gardner’s response to paid advocacy editing and sockpuppetry\" href=\"https://blog.wikimedia.org/2013/10/21/sue-gardner-response-paid-advocacy-editing/\">Lire l’article&nbsp;»</a></p>",
                 "classname":"",
                 "asset": {
-                    "media":"images/Wikipedian_activates_a_sock_puppet_1500.jpg",
-                    "thumbnail":"thumbnails/Wikipedian_activates_a_sock_puppet_32.jpg",
+                    "media":"/static/timelines/wikipedia2013/images/Wikipedian_activates_a_sock_puppet_1500.jpg",
+                    "thumbnail":"/static/timelines/wikipedia2013/thumbnails/Wikipedian_activates_a_sock_puppet_32.jpg",
                     "credit":"<a href=\"https://commons.wikimedia.org/wiki/File:Wikipedian_activates_a_sock_puppet.jpg\">Rotem Danzig from the Hebrew wikipedia</a>",
                     "caption":"Un Wikipédien et son faux-nez."
                 }
@@ -329,8 +329,8 @@
                 "text":"<p>Grâce à une bourse de la Wikimedia Foundation, le Wikipédien Jake Orlowitz crée <em><a title=\"Start the Wikipedia Adventure\" href=\"https://en.wikipedia.org/wiki/Wikipedia:TWA/Portal\">The Wikipedia Adventure</a></em>, un jeu ayant lieu directement sur le site, et qui guide les nouveaux contributeurs vers leurs premiers pas en tant que membres de la communauté.</p><p><a title=\"Gamestorming: Making of The Wikipedia Adventure\" href=\"https://blog.wikimedia.org/2013/10/25/the-wikipedia-adventure/\">Lire l’article&nbsp;»</a></p>",
                 "classname":"",
                 "asset": {
-                    "media":"images/TWA_Mission_2_Screenshot_1500.png",
-                    "thumbnail":"thumbnails/TWA_Mission_2_Screenshot_32.png",
+                    "media":"/static/timelines/wikipedia2013/images/TWA_Mission_2_Screenshot_1500.png",
+                    "thumbnail":"/static/timelines/wikipedia2013/thumbnails/TWA_Mission_2_Screenshot_32.png",
                     "credit":"<a href=\"https://commons.wikimedia.org/wiki/File:TWA_Mission_2_Screenshot.png\">Heather Walls & Jake Orlowitz, CC-BY-SA 3.0</a>",
                     "caption":"Capture d’écran du jeu."
                 }
@@ -342,8 +342,8 @@
                 "text":"<p>Les ingénieurs de la Wikimedia Foundation lancent les «&nbsp;fonctionnalités bêta&nbsp;», une option qui permet aux utilisateurs de Wikipédia de tester des fonctionnalités expérimentales et de donner leur avis avant qu’elles ne soient activées sur l’ensemble du site.</p><p><a title=\"Introducing Beta Features\" href=\"https://blog.wikimedia.org/2013/11/07/introducing-beta-features/\">Lire l’article&nbsp;»</a></p>",
                 "classname":"",
                 "asset": {
-                    "media":"images/beta features screenshot.png",
-                    "thumbnail":"thumbnails/beta features screenshot_32.png",
+                    "media":"/static/timelines/wikipedia2013/images/beta features screenshot.png",
+                    "thumbnail":"/static/timelines/wikipedia2013/thumbnails/beta features screenshot_32.png",
                     "credit":"Développeurs de Wikimedia, GPL",
                     "caption":"Capture d’écran des fonctionnalités bêta dans les préférences utilisateur."
                 }
@@ -367,8 +367,8 @@
                 "text":"<p>Plus de 80 contributeurs se rencontrent à Berlin pour la première <a title=\"m:Wikimedia Diversity Conference\" href=\"https://meta.wikimedia.org/wiki/Wikimedia_Diversity_Conference\">Conférence Diversité Wikimedia</a>, afin de discuter de la nécessité d’avoir davantage de diversité dans la communauté Wikimedia, notamment en termes de genre et de provenance géographique.</p><p><a title=\"Diversity Conference brings Wikimedians to Berlin\" href=\"https://blog.wikimedia.org/2013/11/25/diversity-conference-brings-wikimedians-to-berlin/\">Lire l’article&nbsp;»</a></p>",
                 "classname":"",
                 "asset": {
-                    "media":"images/Wikimedia_Diversity_Conference_2013_31_1500.jpg",
-                    "thumbnail":"thumbnails/Wikimedia_Diversity_Conference_2013_31_32.jpg",
+                    "media":"/static/timelines/wikipedia2013/images/Wikimedia_Diversity_Conference_2013_31_1500.jpg",
+                    "thumbnail":"/static/timelines/wikipedia2013/thumbnails/Wikimedia_Diversity_Conference_2013_31_32.jpg",
                     "credit":"<a href=\"https://commons.wikimedia.org/wiki/File:Wikimedia_Diversity_Conference_2013_31.jpg\">Christopher Schwarzkopf, CC-BY-SA 3.0</a>",
                     "caption":"Un participant modifiant le programme de la Conférence Diversité Wikimedia."
                 }
@@ -380,8 +380,8 @@
                 "text":"<p>La Wikimedia Foundation commence sa dixième campagne de levée de fonds de fin d'année, avec des bannières de dons visibles en haut des pages de Wikipédia. Cette campagne encourage les lecteurs à faire un don modeste afin d’aider à financer Wikipédia et les sites associés, notamment pour payer les serveurs informatiques et les améliorations du site.</p><p><a title=\"Wikimedia Foundation launches tenth-annual online fundraising campaign\" href=\"https://blog.wikimedia.org/2013/12/03/wmf-tenth-annual-online-fundraising-campaign/\">Lire l’article&nbsp;»</a></p>",
                 "classname":"",
                 "asset": {
-                    "media":"images/Fundraising collage.png",
-                    "thumbnail":"thumbnails/Fundraising collage_32.png",
+                    "media":"/static/timelines/wikipedia2013/images/Fundraising collage.png",
+                    "thumbnail":"/static/timelines/wikipedia2013/thumbnails/Fundraising collage_32.png",
                     "credit":"<a href=\"https://commons.wikimedia.org/wiki/File:2010_Fundraiser_Yearend_banners.png\">Megan Hernandez</a>, <a href=\"https://commons.wikimedia.org/wiki/File:Mobile_Banner_1.png\">Josh VanDavier</a> & <a href=\"https://commons.wikimedia.org/wiki/File:Portuguesedropdown_-_trimmed.png\">Joseph Seddon</a>, CC-BY-SA 3.0",
                     "caption":"Capture d’écran des bannières pour les levées de fonds de 2010 et 2013."
                 }
@@ -393,8 +393,8 @@
                 "text":"<p>Le jury annonce les résultats de <em>Wiki Loves Monuments</em>, un concours international de photographie visant à prendre des photos de monuments nationaux et à illustrer les articles de Wikipédia les concernant. Avec plus de 365&nbsp;000 entrées dans le concours, ayant été prises dans plus de 50 pays différents, il s’agit du plus grand concours de photographie du monde, et il détient le record du monde Guinness depuis 2011.</p><p><a title=\"And the winner is…\" href=\"http://www.wikilovesmonuments.org/and-the-winner-is-2/\">Lire l'article&nbsp;»</a></p>",
                 "classname":"",
                 "asset": {
-                    "media":"images/RhB_Ge_4-4_II_Wiesener_Viadukt_1500.jpg",
-                    "thumbnail":"thumbnails/RhB_Ge_4-4_II_Wiesener_Viadukt_32.jpg",
+                    "media":"/static/timelines/wikipedia2013/images/RhB_Ge_4-4_II_Wiesener_Viadukt_1500.jpg",
+                    "thumbnail":"/static/timelines/wikipedia2013/thumbnails/RhB_Ge_4-4_II_Wiesener_Viadukt_32.jpg",
                     "credit":"<a href=\"https://commons.wikimedia.org/wiki/File:RhB_Ge_4-4_II_Wiesener_Viadukt.jpg\">David Gubler, CC-BY-SA 3.0</a>",
                     "caption":"Photo lauréate: Un train traverse le viaduc de Wiesen entre Wiesen et Filisur, en Suisse."
                 }
