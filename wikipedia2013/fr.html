@@ -1,0 +1,25 @@
+    <head>
+		<title>What happened on Wikipedia in 2013?</title>
+        <!-- jQuery -->
+        <script type="text/javascript" src="../jquery-1.7.2.min.js"></script>
+        <!-- BEGIN TimelineJS -->
+        <script type="text/javascript" src="../TimelineJS-2.27.0/build/js/storyjs-embed.js"></script>
+        <script>
+            $(document).ready(function() {
+                createStoryJS({
+                    type:       'timeline',
+                    width:      '100%',
+                    height:     '100%',
+                    source:     'wikipedia2013.fr.json',
+                    embed_id:   'my-timeline',
+					hash_bookmark:      true,
+					lang:      'fr'
+					
+                });
+            });
+        </script>
+        <!-- END TimelineJS -->
+    </head>
+    <body>
+        <div id="my-timeline"></div>
+    </body>
