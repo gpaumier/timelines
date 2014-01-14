@@ -6,7 +6,7 @@
         "text":"<p>Access to more people; features to make it easier to contribute; cool stuff done by amazing volunteers; What have you missed on Wikipedia and around the Wikimedia movement in 2013?</p>",
         "asset": {
             "media":"images/Pumpkipedia-70_1500.jpg",
-            "credit":"<a href=\"https://commons.wikimedia.org/wiki/User:ESanders_(WMF)/Pumpkipedia\">Ed Sanders, CC-BY-SA 3.0</a>",
+            "credit":"<a href=\"https://commons.wikimedia.org/wiki/User:ESanders_(WMF)/Pumpkipedia\">Ed Sanders, CC-BY-SA 3.0 & ™ Wikimedia Foundation</a>",
             "caption":"Pumpkipedia."
         },
         "date": [
@@ -19,7 +19,7 @@
                 "asset": {
                     "media":"images/Wikivoyage portal screenshot.jpg",
                     "thumbnail":"thumbnails/Wikivoyage-Logo-notext.png",
-                    "credit":"<a href=\"https://commons.wikimedia.org/wiki/File:Wikivoyage_Splash.png\">Adrian Dreßler, Rogerhc, AleXXw, CC-BY-SA</a>",
+                    "credit":"<a href=\"https://commons.wikimedia.org/wiki/File:Wikivoyage_Splash.png\">Adrian Dreßler, Rogerhc, AleXXw, CC-BY-SA & ™ Wikimedia Foundation</a>",
                     "caption":"Wikivoyage portal."
                 }
             },
@@ -58,7 +58,7 @@
                 "asset": {
                     "media":"images/Screenshot_of_GettingStarted_tour_Edit_step_blurred.png",
                     "thumbnail":"thumbnails/Screenshot_of_GettingStarted_tour_Edit_step_blurred_32.png",
-                    "credit":"<a href=\"https://commons.wikimedia.org/wiki/File:Screenshot_of_GettingStarted_tour_Edit_step.png\">Steven Walling, CC-BY-SA 3.0</a>",
+                    "credit":"<a href=\"https://commons.wikimedia.org/wiki/File:Screenshot_of_GettingStarted_tour_Edit_step.png\">Steven Walling, CC-BY-SA 3.0 & ™ Wikimedia Foundation</a>",
                     "caption":"Screenshot of the Guided Tour feature."
                 }
             },
@@ -149,7 +149,7 @@
                 "asset": {
                     "media":"images/Commons app collage_1500.jpg",
                     "thumbnail":"thumbnails/Commons app collage_32.png",
-                    "credit":"Wikimedia mobile engineers (GPL) & Guillaume Paumier (CC-BY 3.0)",
+                    "credit":"Wikimedia mobile engineers (GPL), Guillaume Paumier (CC-BY 3.0) & ™ Wikimedia Foundation",
                     "caption":"Screenshots of the Android app's interface with example photos."
                 }
             },
@@ -162,7 +162,7 @@
                 "asset": {
                     "media":"images/Notifications-Flyout-Screenshot-08-01-2013_blurred.png",
                     "thumbnail":"thumbnails/Notifications-Flyout-Screenshot-08-01-2013_blurred_32.png",
-                    "credit":"<a href=\"https://commons.wikimedia.org/wiki/File:Notifications-Flyout-Screenshot-08-01-2013.png\">Fabrice Florin, CC-BY-SA 3.0</a>",
+                    "credit":"<a href=\"https://commons.wikimedia.org/wiki/File:Notifications-Flyout-Screenshot-08-01-2013.png\">Fabrice Florin, CC-BY-SA 3.0 & ™ Wikimedia Foundation</a>",
                     "caption":"Screenshot of the notifications menu."
                 }
             },
@@ -214,7 +214,7 @@
                 "asset": {
                     "media":"images/tech news en.png",
                     "thumbnail":"thumbnails/tech news en_32.png",
-                    "credit":"Guillaume Paumier, public domain",
+                    "credit":"Guillaume Paumier, public domain & ™ Wikimedia Foundation",
                     "caption":"Screenshot of the Tech news portal."
                 }
             },
@@ -227,7 +227,7 @@
                 "asset": {
                     "media":"images/VE screenshot.png",
                     "thumbnail":"thumbnails/VE screenshot_32.png",
-                    "credit":"VisualEditor developers, MIT",
+                    "credit":"VisualEditor developers, MIT & ™ Wikimedia Foundation",
                     "caption":"Screenshot of a Wikipedia article being edited with VisualEditor."
                 }
             },
@@ -253,7 +253,7 @@
                 "asset": {
                     "media":"images/Wikipedia_Zero_1_Mumbai_Guy_on_phone_1500.jpg",
                     "thumbnail":"thumbnails/Wikipedia_Zero_1_Mumbai_Guy_on_phone_32.jpg",
-                    "credit":"<a href=\"https://commons.wikimedia.org/wiki/File:Wikipedia_Zero_1_Mumbai_Guy_on_phone.jpg\">Victor Grigas, David Peters & Heather Walls, CC-BY-SA 3.0</a>",
+                    "credit":"<a href=\"https://commons.wikimedia.org/wiki/File:Wikipedia_Zero_1_Mumbai_Guy_on_phone.jpg\">Victor Grigas, David Peters & Heather Walls, CC-BY-SA 3.0 & ™ Wikimedia Foundation</a>",
                     "caption":"Wikipedia Zero logo and someone using a cell phone in Mumbai, India."
                 }
             },
@@ -305,7 +305,7 @@
                 "asset": {
                     "media":"images/Illustrating_Wikipedia_brochure_(high_resolution)_cover_1500.png",
                     "thumbnail":"thumbnails/Illustrating_Wikipedia_brochure_(high_resolution)_cover_32.png",
-                    "credit":"<a href=\"https://commons.wikimedia.org/wiki/File:Illustrating_Wikipedia_brochure.pdf\">Wikimedia Foundation, CC-BY-SA 3.0</a>",
+                    "credit":"<a href=\"https://commons.wikimedia.org/wiki/File:Illustrating_Wikipedia_brochure.pdf\">Wikimedia Foundation, CC-BY-SA 3.0 & ™</a>",
                     "caption":"Cover of the brochure."
                 }
             },
@@ -331,7 +331,7 @@
                 "asset": {
                     "media":"images/TWA_Mission_2_Screenshot_1500.png",
                     "thumbnail":"thumbnails/TWA_Mission_2_Screenshot_32.png",
-                    "credit":"<a href=\"https://commons.wikimedia.org/wiki/File:TWA_Mission_2_Screenshot.png\">Heather Walls & Jake Orlowitz, CC-BY-SA 3.0</a>",
+                    "credit":"<a href=\"https://commons.wikimedia.org/wiki/File:TWA_Mission_2_Screenshot.png\">Heather Walls & Jake Orlowitz, CC-BY-SA 3.0 & ™ Wikimedia Foundation</a>",
                     "caption":"Screenshot of the game."
                 }
             },

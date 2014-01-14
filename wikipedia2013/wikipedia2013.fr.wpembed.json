@@ -6,7 +6,7 @@
         "text":"<p>2013 a été une année riche en projets sur Wikipédia et dans le mouvement Wikimedia&nbsp;; des projets visant par exemple à donner accès à Wikipédia à davantage de personnes, à créer de nouvelles fonctionnalités sur le site pour qu'il soit plus facile de contribuer, ou encore à aider les Wikipédiens à améliorer le contenu.</p><p>Explorez cette frise pour en savoir plus sur ce qui s’est passé autour de Wikipédia en 2013.</p>",
         "asset": {
             "media":"/static/timelines/wikipedia2013/images/Pumpkipedia-70_1500.jpg",
-            "credit":"<a href=\"https://commons.wikimedia.org/wiki/User:ESanders_(WMF)/Pumpkipedia\">Ed Sanders, CC-BY-SA 3.0</a>",
+            "credit":"<a href=\"https://commons.wikimedia.org/wiki/User:ESanders_(WMF)/Pumpkipedia\">Ed Sanders, CC-BY-SA 3.0 & ™ Wikimedia Foundation</a>",
             "caption":"«&nbsp;Pumpkipedia&nbsp;», une citrouille d’Hallowe’en sculptée sous forme du logo de Wikipédia."
         },
         "date": [
@@ -19,7 +19,7 @@
                 "asset": {
                     "media":"/static/timelines/wikipedia2013/images/Wikivoyage portal screenshot.jpg",
                     "thumbnail":"/static/timelines/wikipedia2013/thumbnails/Wikivoyage-Logo-notext.png",
-                    "credit":"<a href=\"https://commons.wikimedia.org/wiki/File:Wikivoyage_Splash.png\">Adrian Dreßler, Rogerhc, AleXXw, CC-BY-SA</a>",
+                    "credit":"<a href=\"https://commons.wikimedia.org/wiki/File:Wikivoyage_Splash.png\">Adrian Dreßler, Rogerhc, AleXXw, CC-BY-SA & ™ Wikimedia Foundation</a>",
                     "caption":"Le portail de Wikivoyage."
                 }
             },
@@ -58,7 +58,7 @@
                 "asset": {
                     "media":"/static/timelines/wikipedia2013/images/Screenshot_of_GettingStarted_tour_Edit_step_blurred.png",
                     "thumbnail":"/static/timelines/wikipedia2013/thumbnails/Screenshot_of_GettingStarted_tour_Edit_step_blurred_32.png",
-                    "credit":"<a href=\"https://commons.wikimedia.org/wiki/File:Screenshot_of_GettingStarted_tour_Edit_step.png\">Steven Walling, CC-BY-SA 3.0</a>",
+                    "credit":"<a href=\"https://commons.wikimedia.org/wiki/File:Screenshot_of_GettingStarted_tour_Edit_step.png\">Steven Walling, CC-BY-SA 3.0 & ™ Wikimedia Foundation</a>",
                     "caption":"Capture d’écran d’une étape de la visite."
                 }
             },
@@ -149,7 +149,7 @@
                 "asset": {
                     "media":"/static/timelines/wikipedia2013/images/Commons app collage_1500.jpg",
                     "thumbnail":"/static/timelines/wikipedia2013/thumbnails/Commons app collage_32.png",
-                    "credit":"Développeurs mobile de Wikimedia (GPL) & Guillaume Paumier (CC-BY 3.0)",
+                    "credit":"Développeurs mobile de Wikimedia (GPL), Guillaume Paumier (CC-BY 3.0) & ™ Wikimedia Foundation",
                     "caption":"Captures d’écran  de l’application Android."
                 }
             },
@@ -162,7 +162,7 @@
                 "asset": {
                     "media":"/static/timelines/wikipedia2013/images/Notifications-Flyout-Screenshot-08-01-2013_blurred.png",
                     "thumbnail":"/static/timelines/wikipedia2013/thumbnails/Notifications-Flyout-Screenshot-08-01-2013_blurred_32.png",
-                    "credit":"<a href=\"https://commons.wikimedia.org/wiki/File:Notifications-Flyout-Screenshot-08-01-2013.png\">Fabrice Florin, CC-BY-SA 3.0</a>",
+                    "credit":"<a href=\"https://commons.wikimedia.org/wiki/File:Notifications-Flyout-Screenshot-08-01-2013.png\">Fabrice Florin, CC-BY-SA 3.0 & ™ Wikimedia Foundation</a>",
                     "caption":"Capture d’écran du menu des notifications."
                 }
             },
@@ -214,7 +214,7 @@
                 "asset": {
                     "media":"/static/timelines/wikipedia2013/images/tech news en.png",
                     "thumbnail":"/static/timelines/wikipedia2013/thumbnails/tech news en_32.png",
-                    "credit":"Guillaume Paumier, domaine public",
+                    "credit":"Guillaume Paumier, domaine public & ™ Wikimedia Foundation",
                     "caption":"Capture d’écran du portail Tech news."
                 }
             },
@@ -227,7 +227,7 @@
                 "asset": {
                     "media":"/static/timelines/wikipedia2013/images/VE screenshot.png",
                     "thumbnail":"/static/timelines/wikipedia2013/thumbnails/VE screenshot_32.png",
-                    "credit":"Développeurs de l’éditeur visuel, MIT",
+                    "credit":"Développeurs de l’éditeur visuel, MIT & ™ Wikimedia Foundation",
                     "caption":"Capture d’écran d’un article de Wikipédia modifié avec l’éditeur visuel."
                 }
             },
@@ -253,7 +253,7 @@
                 "asset": {
                     "media":"/static/timelines/wikipedia2013/images/Wikipedia_Zero_1_Mumbai_Guy_on_phone_1500.jpg",
                     "thumbnail":"/static/timelines/wikipedia2013/thumbnails/Wikipedia_Zero_1_Mumbai_Guy_on_phone_32.jpg",
-                    "credit":"<a href=\"https://commons.wikimedia.org/wiki/File:Wikipedia_Zero_1_Mumbai_Guy_on_phone.jpg\">Victor Grigas, David Peters & Heather Walls, CC-BY-SA 3.0</a>",
+                    "credit":"<a href=\"https://commons.wikimedia.org/wiki/File:Wikipedia_Zero_1_Mumbai_Guy_on_phone.jpg\">Victor Grigas, David Peters & Heather Walls, CC-BY-SA 3.0 & ™ Wikimedia Foundation</a>",
                     "caption":"Logo de Wikipédia Zero, et un utilisateur de teléphone portable à Mumbai, en Inde."
                 }
             },
@@ -305,7 +305,7 @@
                 "asset": {
                     "media":"/static/timelines/wikipedia2013/images/Illustrating_Wikipedia_brochure_(high_resolution)_cover_1500.png",
                     "thumbnail":"/static/timelines/wikipedia2013/thumbnails/Illustrating_Wikipedia_brochure_(high_resolution)_cover_32.png",
-                    "credit":"<a href=\"https://commons.wikimedia.org/wiki/File:Illustrating_Wikipedia_brochure.pdf\">Wikimedia Foundation, CC-BY-SA 3.0</a>",
+                    "credit":"<a href=\"https://commons.wikimedia.org/wiki/File:Illustrating_Wikipedia_brochure.pdf\">Wikimedia Foundation, CC-BY-SA 3.0 & ™</a>",
                     "caption":"Première de couverture de la brochure."
                 }
             },
@@ -331,7 +331,7 @@
                 "asset": {
                     "media":"/static/timelines/wikipedia2013/images/TWA_Mission_2_Screenshot_1500.png",
                     "thumbnail":"/static/timelines/wikipedia2013/thumbnails/TWA_Mission_2_Screenshot_32.png",
-                    "credit":"<a href=\"https://commons.wikimedia.org/wiki/File:TWA_Mission_2_Screenshot.png\">Heather Walls & Jake Orlowitz, CC-BY-SA 3.0</a>",
+                    "credit":"<a href=\"https://commons.wikimedia.org/wiki/File:TWA_Mission_2_Screenshot.png\">Heather Walls & Jake Orlowitz, CC-BY-SA 3.0 & ™ Wikimedia Foundation</a>",
                     "caption":"Capture d’écran du jeu."
                 }
             },
